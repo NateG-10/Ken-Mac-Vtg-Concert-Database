@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Ken Shirts'
+theme = 'PaperMod'
+
+
+
+[[menu.main]]
+identifier = "categories"
+name = "Artists"
+url = "/categories/"
+
+
+[[menu.main]]
+identifier = "tags"
+name = "Manufacturers"
+url = "/tags/"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+
