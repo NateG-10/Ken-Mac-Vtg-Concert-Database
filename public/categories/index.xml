@@ -6,13 +6,104 @@
     <description>Recent content in Categories on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2024 22:42:58 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 20:06:20 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fruit of the Loom</title>
-      <link>http://localhost:1313/categories/fruit-of-the-loom/</link>
+      <title>Dave Matthews Band</title>
+      <link>http://localhost:1313/categories/dave-matthews-band/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/fruit-of-the-loom/</guid>
+      <guid>http://localhost:1313/categories/dave-matthews-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunatic</title>
+      <link>http://localhost:1313/categories/lunatic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/lunatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trey Anastasio</title>
+      <link>http://localhost:1313/categories/trey-anastasio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/trey-anastasio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VB Amphitheater</title>
+      <link>http://localhost:1313/categories/vb-amphitheater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/vb-amphitheater/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychedelic Furs</title>
+      <link>http://localhost:1313/categories/psychedelic-furs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/psychedelic-furs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rush</title>
+      <link>http://localhost:1313/categories/rush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/rush/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fleetwood Mac</title>
+      <link>http://localhost:1313/categories/fleetwood-mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fleetwood-mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The 38 Special</title>
+      <link>http://localhost:1313/categories/the-38-special/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-38-special/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robert Cray Band</title>
+      <link>http://localhost:1313/categories/robert-cray-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/robert-cray-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sting</title>
+      <link>http://localhost:1313/categories/sting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neil Young</title>
+      <link>http://localhost:1313/categories/neil-young/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/neil-young/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aerosmith</title>
+      <link>http://localhost:1313/categories/aerosmith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/aerosmith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poison</title>
+      <link>http://localhost:1313/categories/poison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/poison/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phish</title>
+      <link>http://localhost:1313/categories/phish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phish/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +156,6 @@
       <description></description>
     </item>
     <item>
-      <title>VB Amphitheater</title>
-      <link>http://localhost:1313/categories/vb-amphitheater/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/vb-amphitheater/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Salem Civic Center Complex</title>
       <link>http://localhost:1313/categories/salem-civic-center-complex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,10 +163,10 @@
       <description></description>
     </item>
     <item>
-      <title>The Gilman Brothers</title>
-      <link>http://localhost:1313/categories/the-gilman-brothers/</link>
+      <title>The Allman Brothers</title>
+      <link>http://localhost:1313/categories/the-allman-brothers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/the-gilman-brothers/</guid>
+      <guid>http://localhost:1313/categories/the-allman-brothers/</guid>
       <description></description>
     </item>
     <item>
