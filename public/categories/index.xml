@@ -6,20 +6,27 @@
     <description>Recent content in Categories on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2024 17:54:28 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 19:07:04 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FM 99</title>
-      <link>http://localhost:1313/categories/fm-99/</link>
+      <title>Coal Chamber</title>
+      <link>http://localhost:1313/categories/coal-chamber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/fm-99/</guid>
+      <guid>http://localhost:1313/categories/coal-chamber/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dave Matthews Band</title>
-      <link>http://localhost:1313/categories/dave-matthews-band/</link>
+      <title>Type O Negative</title>
+      <link>http://localhost:1313/categories/type-o-negative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/dave-matthews-band/</guid>
+      <guid>http://localhost:1313/categories/type-o-negative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>97.5 3WV</title>
+      <link>http://localhost:1313/categories/97.5-3wv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/97.5-3wv/</guid>
       <description></description>
     </item>
     <item>
@@ -30,10 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Trey Anastasio</title>
-      <link>http://localhost:1313/categories/trey-anastasio/</link>
+      <title>Phish</title>
+      <link>http://localhost:1313/categories/phish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/trey-anastasio/</guid>
+      <guid>http://localhost:1313/categories/phish/</guid>
       <description></description>
     </item>
     <item>
@@ -44,10 +51,80 @@
       <description></description>
     </item>
     <item>
-      <title>Psychedelic Furs</title>
-      <link>http://localhost:1313/categories/psychedelic-furs/</link>
+      <title>Nissan Pavilion</title>
+      <link>http://localhost:1313/categories/nissan-pavilion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/psychedelic-furs/</guid>
+      <guid>http://localhost:1313/categories/nissan-pavilion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Godsmack</title>
+      <link>http://localhost:1313/categories/godsmack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/godsmack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monica Maries</title>
+      <link>http://localhost:1313/categories/monica-maries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/monica-maries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunatic Luau</title>
+      <link>http://localhost:1313/categories/lunatic-luau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/lunatic-luau/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dave Matthews Band</title>
+      <link>http://localhost:1313/categories/dave-matthews-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dave-matthews-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phil Lesh &amp; Friends</title>
+      <link>http://localhost:1313/categories/phil-lesh--friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phil-lesh--friends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFX Music</title>
+      <link>http://localhost:1313/categories/sfx-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sfx-music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WVGO 106.5 FM</title>
+      <link>http://localhost:1313/categories/wvgo-106.5-fm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wvgo-106.5-fm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enrique Iglesias</title>
+      <link>http://localhost:1313/categories/enrique-iglesias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/enrique-iglesias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Van Halen</title>
+      <link>http://localhost:1313/categories/van-halen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/van-halen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guns N&#39; Roses</title>
+      <link>http://localhost:1313/categories/guns-n-roses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guns-n-roses/</guid>
       <description></description>
     </item>
     <item>
@@ -55,6 +132,55 @@
       <link>http://localhost:1313/categories/rush/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/rush/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Porno for Pyros</title>
+      <link>http://localhost:1313/categories/porno-for-pyros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/porno-for-pyros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocean Potion</title>
+      <link>http://localhost:1313/categories/ocean-potion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ocean-potion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Mccartney</title>
+      <link>http://localhost:1313/categories/paul-mccartney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paul-mccartney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life, Sex &amp; Death</title>
+      <link>http://localhost:1313/categories/life-sex--death/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life-sex--death/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FM 99</title>
+      <link>http://localhost:1313/categories/fm-99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fm-99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trey Anastasio</title>
+      <link>http://localhost:1313/categories/trey-anastasio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/trey-anastasio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychedelic Furs</title>
+      <link>http://localhost:1313/categories/psychedelic-furs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/psychedelic-furs/</guid>
       <description></description>
     </item>
     <item>
@@ -107,24 +233,10 @@
       <description></description>
     </item>
     <item>
-      <title>Phish</title>
-      <link>http://localhost:1313/categories/phish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/phish/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>High Impact Television Series</title>
       <link>http://localhost:1313/categories/high-impact-television-series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/high-impact-television-series/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Enrique Iglesias</title>
-      <link>http://localhost:1313/categories/enrique-iglesias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/enrique-iglesias/</guid>
       <description></description>
     </item>
     <item>
