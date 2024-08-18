@@ -2,28 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/1070/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hanes/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/paul-stanley/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-18T14:44:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1069/</loc>
+    <lastmod>2024-08-18T14:44:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/massive/</loc>
+    <lastmod>2024-08-18T14:44:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sportswear/</loc>
+    <lastmod>2024-08-18T14:44:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1068/</loc>
+    <lastmod>2024-08-18T14:44:08-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/wailers-band/</loc>
+    <lastmod>2024-08-18T14:44:08-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1067/</loc>
+    <lastmod>2024-08-18T14:44:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
+    <lastmod>2024-08-18T14:44:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/rush/</loc>
+    <lastmod>2024-08-18T14:44:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1066/</loc>
+    <lastmod>2024-08-18T14:44:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ramones/</loc>
+    <lastmod>2024-08-18T14:44:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/screen-stars/</loc>
+    <lastmod>2024-08-18T14:44:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1065/</loc>
+    <lastmod>2024-08-18T14:26:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/billy-idol/</loc>
+    <lastmod>2024-08-18T14:26:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brockum-collection/</loc>
+    <lastmod>2024-08-18T14:26:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1064/</loc>
+    <lastmod>2024-08-18T14:26:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eric-johnson/</loc>
+    <lastmod>2024-08-18T14:26:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1063/</loc>
+    <lastmod>2024-08-18T14:26:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-black-crowes/</loc>
+    <lastmod>2024-08-18T14:26:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1062/</loc>
+    <lastmod>2024-08-18T14:26:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/peter-murphy/</loc>
+    <lastmod>2024-08-18T14:26:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/select/</loc>
+    <lastmod>2024-08-18T14:26:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1061/</loc>
+    <lastmod>2024-08-18T14:26:40-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/waxing-poetics/</loc>
+    <lastmod>2024-08-18T14:26:40-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/1060/</loc>
     <lastmod>2024-08-17T23:03:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hanes/</loc>
-    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/public-image-ltd./</loc>
-    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/categories/bad-english/</loc>
     <lastmod>2024-08-17T23:03:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1059/</loc>
+    <lastmod>2024-08-17T23:03:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/public-image-ltd./</loc>
     <lastmod>2024-08-17T23:03:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1058/</loc>
@@ -57,9 +135,6 @@
     <lastmod>2024-08-02T19:07:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/bud-concert-series/</loc>
-    <lastmod>2024-08-02T19:07:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
     <lastmod>2024-08-02T19:07:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1053/</loc>
@@ -206,12 +281,6 @@
     <loc>http://localhost:1313/posts/1036/</loc>
     <lastmod>2024-08-02T17:55:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/rush/</loc>
-    <lastmod>2024-08-02T17:55:46-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sportswear/</loc>
-    <lastmod>2024-08-02T17:55:46-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1035/</loc>
     <lastmod>2024-07-30T17:54:59-04:00</lastmod>
   </url><url>
@@ -278,9 +347,6 @@
     <loc>http://localhost:1313/posts/1025/</loc>
     <lastmod>2024-07-17T19:09:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/screen-stars/</loc>
-    <lastmod>2024-07-17T19:09:08-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1024/</loc>
     <lastmod>2024-07-17T19:09:07-04:00</lastmod>
   </url><url>
@@ -321,9 +387,6 @@
     <lastmod>2024-06-17T22:43:03-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/aerosmith/</loc>
-    <lastmod>2024-06-17T22:43:03-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/brockum-collection/</loc>
     <lastmod>2024-06-17T22:43:03-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1017/</loc>
