@@ -2,22 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/1060/</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hanes/</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-02T19:07:10-04:00</lastmod>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/public-image-ltd./</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-17T23:03:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1059/</loc>
+    <lastmod>2024-08-17T23:03:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1058/</loc>
+    <lastmod>2024-08-17T23:03:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/sound-garden/</loc>
+    <lastmod>2024-08-17T23:03:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1057/</loc>
+    <lastmod>2024-08-17T23:03:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mega-deth/</loc>
+    <lastmod>2024-08-17T23:03:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n/a/</loc>
+    <lastmod>2024-08-17T23:03:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1056/</loc>
+    <lastmod>2024-08-17T23:02:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/turner-south/</loc>
+    <lastmod>2024-08-17T23:02:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1055/</loc>
     <lastmod>2024-08-02T19:07:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tori-amos/</loc>
+    <lastmod>2024-08-02T19:07:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1054/</loc>
+    <lastmod>2024-08-02T19:07:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bud-concert-series/</loc>
+    <lastmod>2024-08-02T19:07:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
+    <lastmod>2024-08-02T19:07:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1053/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-08-02T19:07:04-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/coal-chamber/</loc>
-    <lastmod>2024-08-02T19:07:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tultex/</loc>
@@ -30,9 +78,6 @@
     <lastmod>2024-08-02T19:07:02-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/97.5-3wv/</loc>
-    <lastmod>2024-08-02T19:07:02-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
     <lastmod>2024-08-02T19:07:02-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1051/</loc>
@@ -105,9 +150,6 @@
     <lastmod>2024-08-02T18:16:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1043/</loc>
-    <lastmod>2024-08-02T18:16:23-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hanes/</loc>
     <lastmod>2024-08-02T18:16:23-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/phil-lesh--friends/</loc>
@@ -243,9 +285,6 @@
     <lastmod>2024-07-17T19:09:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/fleetwood-mac/</loc>
-    <lastmod>2024-07-17T19:09:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/n/a/</loc>
     <lastmod>2024-07-17T19:09:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1023/</loc>
