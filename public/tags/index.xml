@@ -6,34 +6,27 @@
     <description>Recent content in Tags on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2024 00:03:39 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 15:30:57 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Screen Stars</title>
-      <link>http://localhost:1313/tags/screen-stars/</link>
+      <title>Oneita</title>
+      <link>http://localhost:1313/tags/oneita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/screen-stars/</guid>
+      <guid>http://localhost:1313/tags/oneita/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hanes</title>
-      <link>http://localhost:1313/tags/hanes/</link>
+      <title>Spring Ford</title>
+      <link>http://localhost:1313/tags/spring-ford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hanes/</guid>
+      <guid>http://localhost:1313/tags/spring-ford/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sportswear</title>
-      <link>http://localhost:1313/tags/sportswear/</link>
+      <title>Stedman</title>
+      <link>http://localhost:1313/tags/stedman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sportswear/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fruit of the Loom</title>
-      <link>http://localhost:1313/tags/fruit-of-the-loom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fruit-of-the-loom/</guid>
+      <guid>http://localhost:1313/tags/stedman/</guid>
       <description></description>
     </item>
     <item>
@@ -44,10 +37,45 @@
       <description></description>
     </item>
     <item>
-      <title>Select</title>
-      <link>http://localhost:1313/tags/select/</link>
+      <title>Screen Stars</title>
+      <link>http://localhost:1313/tags/screen-stars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/select/</guid>
+      <guid>http://localhost:1313/tags/screen-stars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruit of the Loom</title>
+      <link>http://localhost:1313/tags/fruit-of-the-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fruit-of-the-loom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hanes</title>
+      <link>http://localhost:1313/tags/hanes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hanes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Ford Classic</title>
+      <link>http://localhost:1313/tags/spring-ford-classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spring-ford-classic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Touch of Gold</title>
+      <link>http://localhost:1313/tags/touch-of-gold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/touch-of-gold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Center Star</title>
+      <link>http://localhost:1313/tags/center-star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/center-star/</guid>
       <description></description>
     </item>
     <item>
@@ -55,6 +83,20 @@
       <link>http://localhost:1313/tags/n/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/n/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sportswear</title>
+      <link>http://localhost:1313/tags/sportswear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sportswear/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Select</title>
+      <link>http://localhost:1313/tags/select/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/select/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +111,6 @@
       <link>http://localhost:1313/tags/anvil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/anvil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oneita</title>
-      <link>http://localhost:1313/tags/oneita/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oneita/</guid>
       <description></description>
     </item>
     <item>
@@ -135,13 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>Spring Ford Classic</title>
-      <link>http://localhost:1313/tags/spring-ford-classic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spring-ford-classic/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Brockum Group</title>
       <link>http://localhost:1313/tags/brockum-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,13 +202,6 @@
       <link>http://localhost:1313/tags/soffes-choice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/soffes-choice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stedman</title>
-      <link>http://localhost:1313/tags/stedman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stedman/</guid>
       <description></description>
     </item>
     <item>
