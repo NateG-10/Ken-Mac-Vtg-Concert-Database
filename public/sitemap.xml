@@ -8,19 +8,34 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-02T01:10:14-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/1107/</loc>
+    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brockum-collection/</loc>
+    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/van-halen-crew/</loc>
+    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1106/</loc>
+    <lastmod>2024-09-02T01:10:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
+    <lastmod>2024-09-02T01:10:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-ocean-blue/</loc>
+    <lastmod>2024-09-02T01:10:04-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/1105/</loc>
     <lastmod>2024-09-02T01:10:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-09-02T01:10:02-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
-    <lastmod>2024-09-02T01:10:02-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/skinny-puppy/</loc>
-    <lastmod>2024-09-02T01:10:02-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-02T01:10:02-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1104/</loc>
@@ -159,9 +174,6 @@
     <lastmod>2024-08-30T15:30:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1086/</loc>
-    <lastmod>2024-08-30T15:30:50-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/brockum-collection/</loc>
     <lastmod>2024-08-30T15:30:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/slayer/</loc>
