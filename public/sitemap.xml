@@ -2,22 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/1110/</loc>
+    <lastmod>2024-09-02T01:10:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-02T01:10:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hanes/</loc>
+    <lastmod>2024-09-02T01:10:14-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-02T01:10:14-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-02T01:10:14-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-02T01:10:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-b-52s/</loc>
+    <lastmod>2024-09-02T01:10:14-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1109/</loc>
+    <lastmod>2024-09-02T01:10:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n/a/</loc>
+    <lastmod>2024-09-02T01:10:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/violent-femmes/</loc>
+    <lastmod>2024-09-02T01:10:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1108/</loc>
+    <lastmod>2024-09-02T01:10:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brockum-group/</loc>
+    <lastmod>2024-09-02T01:10:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/winger/</loc>
+    <lastmod>2024-09-02T01:10:09-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/1107/</loc>
     <lastmod>2024-09-02T01:10:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brockum-collection/</loc>
-    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-09-02T01:10:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-02T01:10:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/van-halen-crew/</loc>
@@ -42,9 +69,6 @@
     <lastmod>2024-09-02T01:09:57-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cowboy-junkies/</loc>
-    <lastmod>2024-09-02T01:09:57-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hanes/</loc>
     <lastmod>2024-09-02T01:09:57-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1103/</loc>
@@ -128,19 +152,10 @@
     <loc>http://localhost:1313/posts/1093/</loc>
     <lastmod>2024-08-30T16:28:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brockum-group/</loc>
-    <lastmod>2024-08-30T16:28:13-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/winger/</loc>
-    <lastmod>2024-08-30T16:28:13-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1092/</loc>
     <lastmod>2024-08-30T16:28:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/madonna/</loc>
-    <lastmod>2024-08-30T16:28:11-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/n/a/</loc>
     <lastmod>2024-08-30T16:28:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1091/</loc>
