@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2024 01:09:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 01:10:33 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Screen Stars</title>
-      <link>http://localhost:1313/tags/screen-stars/</link>
+      <title>All Sports</title>
+      <link>http://localhost:1313/tags/all-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/screen-stars/</guid>
+      <guid>http://localhost:1313/tags/all-sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Center Star</title>
+      <link>http://localhost:1313/tags/center-star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/center-star/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N/A</title>
+      <link>http://localhost:1313/tags/n/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delta</title>
+      <link>http://localhost:1313/tags/delta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/delta/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +44,52 @@
       <description></description>
     </item>
     <item>
-      <title>N/A</title>
-      <link>http://localhost:1313/tags/n/a/</link>
+      <title>Fruit of the Loom</title>
+      <link>http://localhost:1313/tags/fruit-of-the-loom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/n/a/</guid>
+      <guid>http://localhost:1313/tags/fruit-of-the-loom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Ford Classic</title>
+      <link>http://localhost:1313/tags/spring-ford-classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spring-ford-classic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anvil</title>
+      <link>http://localhost:1313/tags/anvil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/anvil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Signal</title>
+      <link>http://localhost:1313/tags/signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/signal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jerzees</title>
+      <link>http://localhost:1313/tags/jerzees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jerzees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Screen Stars</title>
+      <link>http://localhost:1313/tags/screen-stars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/screen-stars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White House</title>
+      <link>http://localhost:1313/tags/white-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/white-house/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +104,6 @@
       <link>http://localhost:1313/tags/brockum-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/brockum-collection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fruit of the Loom</title>
-      <link>http://localhost:1313/tags/fruit-of-the-loom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fruit-of-the-loom/</guid>
       <description></description>
     </item>
     <item>
@@ -72,13 +128,6 @@
       <description></description>
     </item>
     <item>
-      <title>Delta</title>
-      <link>http://localhost:1313/tags/delta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/delta/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Spring Ford</title>
       <link>http://localhost:1313/tags/spring-ford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,24 +135,10 @@
       <description></description>
     </item>
     <item>
-      <title>Spring Ford Classic</title>
-      <link>http://localhost:1313/tags/spring-ford-classic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spring-ford-classic/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Touch of Gold</title>
       <link>http://localhost:1313/tags/touch-of-gold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/touch-of-gold/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Center Star</title>
-      <link>http://localhost:1313/tags/center-star/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/center-star/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +160,6 @@
       <link>http://localhost:1313/tags/tultex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/tultex/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anvil</title>
-      <link>http://localhost:1313/tags/anvil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anvil/</guid>
       <description></description>
     </item>
     <item>
@@ -251,13 +279,6 @@
       <link>http://localhost:1313/tags/hartway-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hartway-sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jerzees</title>
-      <link>http://localhost:1313/tags/jerzees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jerzees/</guid>
       <description></description>
     </item>
     <item>
