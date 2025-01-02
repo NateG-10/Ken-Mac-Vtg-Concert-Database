@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Hooters on Ken Shirts</title>
-    <link>https://example.org/categories/the-hooters/</link>
+    <link>http://localhost:1313/categories/the-hooters/</link>
     <description>Recent content in The Hooters on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:12:12 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/the-hooters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/the-hooters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1146</title>
-      <link>https://example.org/posts/1146/</link>
+      <link>http://localhost:1313/posts/1146/</link>
       <pubDate>Thu, 26 Sep 2024 01:12:12 -0400</pubDate>
-      <guid>https://example.org/posts/1146/</guid>
+      <guid>http://localhost:1313/posts/1146/</guid>
       <description>The Hooters - Zig Zag Album 1990 White L T Shirt Hanes Hooters Zig Zag circle graphic onfront, same graphic on back but with piano. Year: 1990.
 BIN 2</description>
     </item>

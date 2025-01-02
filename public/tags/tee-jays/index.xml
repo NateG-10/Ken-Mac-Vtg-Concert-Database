@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tee-Jays on Ken Shirts</title>
-    <link>https://example.org/tags/tee-jays/</link>
-    <description>Recent content in Tee-Jays on Ken Shirts</description>
+    <title>Tee Jays on Ken Shirts</title>
+    <link>http://localhost:1313/tags/tee-jays/</link>
+    <description>Recent content in Tee Jays on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2024 17:54:52 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/tee-jays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 17:21:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tee-jays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1155</title>
+      <link>http://localhost:1313/posts/1155/</link>
+      <pubDate>Thu, 02 Jan 2025 17:21:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/1155/</guid>
+      <description>Don Dokken Black L Tank Top - Tee Jays Don Dokken text over album graphic of phoenix on front, blank back. Year: 1990. Quantity: 3 (2 with sleeves). Year: 1990
+BIN 2</description>
+    </item>
     <item>
       <title>1032</title>
-      <link>https://example.org/posts/1032/</link>
+      <link>http://localhost:1313/posts/1032/</link>
       <pubDate>Tue, 30 Jul 2024 17:54:52 -0400</pubDate>
-      <guid>https://example.org/posts/1032/</guid>
+      <guid>http://localhost:1313/posts/1032/</guid>
       <description>Life, Sex &amp;amp; Death Black XL T Shirt - Tee-Jays Giant &amp;ldquo;Life, Sex &amp;amp; Death&amp;rdquo; on front, blank back. Year: 1990s
 BIN 1</description>
     </item>

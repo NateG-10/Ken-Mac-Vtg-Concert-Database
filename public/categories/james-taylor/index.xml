@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>James Taylor on Ken Shirts</title>
-    <link>https://example.org/categories/james-taylor/</link>
+    <link>http://localhost:1313/categories/james-taylor/</link>
     <description>Recent content in James Taylor on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:12:14 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/james-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/james-taylor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1147</title>
-      <link>https://example.org/posts/1147/</link>
+      <link>http://localhost:1313/posts/1147/</link>
       <pubDate>Thu, 26 Sep 2024 01:12:14 -0400</pubDate>
-      <guid>https://example.org/posts/1147/</guid>
+      <guid>http://localhost:1313/posts/1147/</guid>
       <description>James Taylor - 1990 Tour Black L T Shirt Hanes Beefy-T James Taylor black and white picture with white text on front, &amp;ldquo;JT Deluxe Interstate &amp;lsquo;91&amp;rdquo; text on back. Year: 1990
 BIN 2</description>
     </item>

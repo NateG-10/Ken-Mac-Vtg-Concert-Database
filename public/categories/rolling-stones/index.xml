@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rolling Stones on Ken Shirts</title>
-    <link>https://example.org/categories/rolling-stones/</link>
+    <link>http://localhost:1313/categories/rolling-stones/</link>
     <description>Recent content in Rolling Stones on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:12:08 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/rolling-stones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/rolling-stones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1143</title>
-      <link>https://example.org/posts/1143/</link>
+      <link>http://localhost:1313/posts/1143/</link>
       <pubDate>Thu, 26 Sep 2024 01:12:08 -0400</pubDate>
-      <guid>https://example.org/posts/1143/</guid>
+      <guid>http://localhost:1313/posts/1143/</guid>
       <description>Rolling Stones - Florida 1989 Steel Wheels Tour White L T Shirt White House Large Rolling Stones tongue logo next to Rolling Stones 1989 tour logo on front, large Florida tour graphic with tour stops &amp;amp; date on back. Year: 1989.
 BIN 2</description>
     </item>

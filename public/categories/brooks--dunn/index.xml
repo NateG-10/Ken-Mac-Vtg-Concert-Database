@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brooks &amp; Dunn on Ken Shirts</title>
-    <link>https://example.org/categories/brooks--dunn/</link>
+    <link>http://localhost:1313/categories/brooks--dunn/</link>
     <description>Recent content in Brooks &amp; Dunn on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:11:45 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/brooks--dunn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/brooks--dunn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1134</title>
-      <link>https://example.org/posts/1134/</link>
+      <link>http://localhost:1313/posts/1134/</link>
       <pubDate>Thu, 26 Sep 2024 01:11:45 -0400</pubDate>
-      <guid>https://example.org/posts/1134/</guid>
+      <guid>http://localhost:1313/posts/1134/</guid>
       <description>Brooks &amp;amp; Dunn - Stampede &amp;lsquo;93 Black L T Shirt Fruit of the Loom Purple Lightning print all over, Brooks &amp;amp; Dunn logo with longhorn skull on front, &amp;ldquo;Stampede &amp;lsquo;93&amp;rdquo; text + same purple lightning on back. Year: 1993
 BIN 2</description>
     </item>

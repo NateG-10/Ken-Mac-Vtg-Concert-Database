@@ -2,304 +2,304 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ken Shirts</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2024 01:12:17 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 17:21:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>N/A</title>
-      <link>https://example.org/tags/n/a/</link>
+      <title>Fruit of the Loom</title>
+      <link>http://localhost:1313/tags/fruit-of-the-loom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/n/a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Giant</title>
-      <link>https://example.org/tags/giant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/giant/</guid>
+      <guid>http://localhost:1313/tags/fruit-of-the-loom/</guid>
       <description></description>
     </item>
     <item>
       <title>Hanes</title>
-      <link>https://example.org/tags/hanes/</link>
+      <link>http://localhost:1313/tags/hanes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/hanes/</guid>
+      <guid>http://localhost:1313/tags/hanes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Jerzees</title>
-      <link>https://example.org/tags/jerzees/</link>
+      <title>Tee Jays</title>
+      <link>http://localhost:1313/tags/tee-jays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/jerzees/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>White House</title>
-      <link>https://example.org/tags/white-house/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/white-house/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Screen Stars</title>
-      <link>https://example.org/tags/screen-stars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/screen-stars/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brockum Collection</title>
-      <link>https://example.org/tags/brockum-collection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/brockum-collection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Poco Loco</title>
-      <link>https://example.org/tags/poco-loco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/poco-loco/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fruit of the Loom</title>
-      <link>https://example.org/tags/fruit-of-the-loom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/fruit-of-the-loom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Signal</title>
-      <link>https://example.org/tags/signal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/signal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brockum Group</title>
-      <link>https://example.org/tags/brockum-group/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/brockum-group/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>All Sports</title>
-      <link>https://example.org/tags/all-sports/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/all-sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Center Star</title>
-      <link>https://example.org/tags/center-star/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/center-star/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Delta</title>
-      <link>https://example.org/tags/delta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/delta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spring Ford Classic</title>
-      <link>https://example.org/tags/spring-ford-classic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/spring-ford-classic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anvil</title>
-      <link>https://example.org/tags/anvil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/anvil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stedman</title>
-      <link>https://example.org/tags/stedman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/stedman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Miller</title>
-      <link>https://example.org/tags/miller/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/miller/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oneita</title>
-      <link>https://example.org/tags/oneita/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/oneita/</guid>
+      <guid>http://localhost:1313/tags/tee-jays/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Ford</title>
-      <link>https://example.org/tags/spring-ford/</link>
+      <link>http://localhost:1313/tags/spring-ford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/spring-ford/</guid>
+      <guid>http://localhost:1313/tags/spring-ford/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N/A</title>
+      <link>http://localhost:1313/tags/n/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Giant</title>
+      <link>http://localhost:1313/tags/giant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/giant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jerzees</title>
+      <link>http://localhost:1313/tags/jerzees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jerzees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White House</title>
+      <link>http://localhost:1313/tags/white-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/white-house/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Screen Stars</title>
+      <link>http://localhost:1313/tags/screen-stars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/screen-stars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brockum Collection</title>
+      <link>http://localhost:1313/tags/brockum-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brockum-collection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poco Loco</title>
+      <link>http://localhost:1313/tags/poco-loco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/poco-loco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Signal</title>
+      <link>http://localhost:1313/tags/signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/signal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brockum Group</title>
+      <link>http://localhost:1313/tags/brockum-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brockum-group/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All Sports</title>
+      <link>http://localhost:1313/tags/all-sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/all-sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Center Star</title>
+      <link>http://localhost:1313/tags/center-star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/center-star/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delta</title>
+      <link>http://localhost:1313/tags/delta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/delta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Ford Classic</title>
+      <link>http://localhost:1313/tags/spring-ford-classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spring-ford-classic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anvil</title>
+      <link>http://localhost:1313/tags/anvil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/anvil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stedman</title>
+      <link>http://localhost:1313/tags/stedman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stedman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miller</title>
+      <link>http://localhost:1313/tags/miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/miller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oneita</title>
+      <link>http://localhost:1313/tags/oneita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oneita/</guid>
       <description></description>
     </item>
     <item>
       <title>Touch of Gold</title>
-      <link>https://example.org/tags/touch-of-gold/</link>
+      <link>http://localhost:1313/tags/touch-of-gold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/touch-of-gold/</guid>
+      <guid>http://localhost:1313/tags/touch-of-gold/</guid>
       <description></description>
     </item>
     <item>
       <title>Sportswear</title>
-      <link>https://example.org/tags/sportswear/</link>
+      <link>http://localhost:1313/tags/sportswear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/sportswear/</guid>
+      <guid>http://localhost:1313/tags/sportswear/</guid>
       <description></description>
     </item>
     <item>
       <title>Select</title>
-      <link>https://example.org/tags/select/</link>
+      <link>http://localhost:1313/tags/select/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/select/</guid>
+      <guid>http://localhost:1313/tags/select/</guid>
       <description></description>
     </item>
     <item>
       <title>Tultex</title>
-      <link>https://example.org/tags/tultex/</link>
+      <link>http://localhost:1313/tags/tultex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/tultex/</guid>
+      <guid>http://localhost:1313/tags/tultex/</guid>
       <description></description>
     </item>
     <item>
       <title>Outer Banks</title>
-      <link>https://example.org/tags/outer-banks/</link>
+      <link>http://localhost:1313/tags/outer-banks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/outer-banks/</guid>
+      <guid>http://localhost:1313/tags/outer-banks/</guid>
       <description></description>
     </item>
     <item>
       <title>VCC Vantage</title>
-      <link>https://example.org/tags/vcc-vantage/</link>
+      <link>http://localhost:1313/tags/vcc-vantage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/vcc-vantage/</guid>
+      <guid>http://localhost:1313/tags/vcc-vantage/</guid>
       <description></description>
     </item>
     <item>
       <title>US Ts 707</title>
-      <link>https://example.org/tags/us-ts-707/</link>
+      <link>http://localhost:1313/tags/us-ts-707/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/us-ts-707/</guid>
+      <guid>http://localhost:1313/tags/us-ts-707/</guid>
       <description></description>
     </item>
     <item>
       <title>Gildan</title>
-      <link>https://example.org/tags/gildan/</link>
+      <link>http://localhost:1313/tags/gildan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gildan/</guid>
+      <guid>http://localhost:1313/tags/gildan/</guid>
       <description></description>
     </item>
     <item>
       <title>Champion</title>
-      <link>https://example.org/tags/champion/</link>
+      <link>http://localhost:1313/tags/champion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/champion/</guid>
+      <guid>http://localhost:1313/tags/champion/</guid>
       <description></description>
     </item>
     <item>
       <title>M&amp;0 Knits</title>
-      <link>https://example.org/tags/m0-knits/</link>
+      <link>http://localhost:1313/tags/m0-knits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/m0-knits/</guid>
+      <guid>http://localhost:1313/tags/m0-knits/</guid>
       <description></description>
     </item>
     <item>
       <title>Comfort Colors</title>
-      <link>https://example.org/tags/comfort-colors/</link>
+      <link>http://localhost:1313/tags/comfort-colors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/comfort-colors/</guid>
+      <guid>http://localhost:1313/tags/comfort-colors/</guid>
       <description></description>
     </item>
     <item>
       <title>Catawba&#39;s Best</title>
-      <link>https://example.org/tags/catawbas-best/</link>
+      <link>http://localhost:1313/tags/catawbas-best/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/catawbas-best/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tee-Jays</title>
-      <link>https://example.org/tags/tee-jays/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/tee-jays/</guid>
+      <guid>http://localhost:1313/tags/catawbas-best/</guid>
       <description></description>
     </item>
     <item>
       <title>Alstyle Apparel &amp; Activewear</title>
-      <link>https://example.org/tags/alstyle-apparel--activewear/</link>
+      <link>http://localhost:1313/tags/alstyle-apparel--activewear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/alstyle-apparel--activewear/</guid>
+      <guid>http://localhost:1313/tags/alstyle-apparel--activewear/</guid>
       <description></description>
     </item>
     <item>
       <title>Soffe&#39;s Choice</title>
-      <link>https://example.org/tags/soffes-choice/</link>
+      <link>http://localhost:1313/tags/soffes-choice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/soffes-choice/</guid>
+      <guid>http://localhost:1313/tags/soffes-choice/</guid>
       <description></description>
     </item>
     <item>
       <title>All Sports Events</title>
-      <link>https://example.org/tags/all-sports-events/</link>
+      <link>http://localhost:1313/tags/all-sports-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/all-sports-events/</guid>
+      <guid>http://localhost:1313/tags/all-sports-events/</guid>
       <description></description>
     </item>
     <item>
       <title>M&amp;O Knits</title>
-      <link>https://example.org/tags/mo-knits/</link>
+      <link>http://localhost:1313/tags/mo-knits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/mo-knits/</guid>
+      <guid>http://localhost:1313/tags/mo-knits/</guid>
       <description></description>
     </item>
     <item>
       <title>Blank Expression</title>
-      <link>https://example.org/tags/blank-expression/</link>
+      <link>http://localhost:1313/tags/blank-expression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/blank-expression/</guid>
+      <guid>http://localhost:1313/tags/blank-expression/</guid>
       <description></description>
     </item>
     <item>
       <title>Planet Hollywood</title>
-      <link>https://example.org/tags/planet-hollywood/</link>
+      <link>http://localhost:1313/tags/planet-hollywood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/planet-hollywood/</guid>
+      <guid>http://localhost:1313/tags/planet-hollywood/</guid>
       <description></description>
     </item>
     <item>
       <title>Perry Ellis</title>
-      <link>https://example.org/tags/perry-ellis/</link>
+      <link>http://localhost:1313/tags/perry-ellis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/perry-ellis/</guid>
+      <guid>http://localhost:1313/tags/perry-ellis/</guid>
       <description></description>
     </item>
     <item>
       <title>Hartway Sports</title>
-      <link>https://example.org/tags/hartway-sports/</link>
+      <link>http://localhost:1313/tags/hartway-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/hartway-sports/</guid>
+      <guid>http://localhost:1313/tags/hartway-sports/</guid>
       <description></description>
     </item>
     <item>
       <title>Auburn Sportswear</title>
-      <link>https://example.org/tags/auburn-sportswear/</link>
+      <link>http://localhost:1313/tags/auburn-sportswear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/auburn-sportswear/</guid>
+      <guid>http://localhost:1313/tags/auburn-sportswear/</guid>
       <description></description>
     </item>
   </channel>

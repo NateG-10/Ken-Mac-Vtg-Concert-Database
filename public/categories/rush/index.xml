@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rush on Ken Shirts</title>
-    <link>https://example.org/categories/rush/</link>
+    <link>http://localhost:1313/categories/rush/</link>
     <description>Recent content in Rush on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Aug 2024 14:44:06 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/rush/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/rush/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1067</title>
-      <link>https://example.org/posts/1067/</link>
+      <link>http://localhost:1313/posts/1067/</link>
       <pubDate>Sun, 18 Aug 2024 14:44:06 -0400</pubDate>
-      <guid>https://example.org/posts/1067/</guid>
+      <guid>http://localhost:1313/posts/1067/</guid>
       <description>Rush - Presto Blue, White, Purple, Tie Dye L T Shirt - Fruit of the Loom Rush &amp;amp; tour logo in front of Picasso-style art, Rush logo over Owl &amp;amp; other objects.
 BIN 2</description>
     </item>
     <item>
       <title>1036</title>
-      <link>https://example.org/posts/1036/</link>
+      <link>http://localhost:1313/posts/1036/</link>
       <pubDate>Fri, 02 Aug 2024 17:55:46 -0400</pubDate>
-      <guid>https://example.org/posts/1036/</guid>
+      <guid>http://localhost:1313/posts/1036/</guid>
       <description>Rush Roll the Bones 1991/92 White XL T Shirt - Sportswear Rush spelled out in black and white dominoes behind kid ont front, tour locations with roll the bones logo &amp;amp; bone on back. Year: 1991
 BIN 1</description>
     </item>
     <item>
       <title>1025</title>
-      <link>https://example.org/posts/1025/</link>
+      <link>http://localhost:1313/posts/1025/</link>
       <pubDate>Wed, 17 Jul 2024 19:09:08 -0400</pubDate>
-      <guid>https://example.org/posts/1025/</guid>
+      <guid>http://localhost:1313/posts/1025/</guid>
       <description>Rush - Presto Tour 1990 White L T Shirt - Screen Stars Rush Presto in red over B/W picture of bunnies, rock paper scissors hands over tour locations on back. Year: 1990
 BIN 1</description>
     </item>

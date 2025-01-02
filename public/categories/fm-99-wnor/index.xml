@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FM 99 WNOR on Ken Shirts</title>
-    <link>https://example.org/categories/fm-99-wnor/</link>
+    <link>http://localhost:1313/categories/fm-99-wnor/</link>
     <description>Recent content in FM 99 WNOR on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:10:08 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/fm-99-wnor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/fm-99-wnor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1119</title>
-      <link>https://example.org/posts/1119/</link>
+      <link>http://localhost:1313/posts/1119/</link>
       <pubDate>Thu, 26 Sep 2024 01:10:08 -0400</pubDate>
-      <guid>https://example.org/posts/1119/</guid>
+      <guid>http://localhost:1313/posts/1119/</guid>
       <description>FM 99 WNOR White XL T Shirt Signal - Mega Tee Red and yellow text logo on front, &amp;ldquo;Home of rock and roll&amp;rdquo; logo over guitar &amp;amp; VA.
 BIN 2</description>
     </item>
     <item>
       <title>1079</title>
-      <link>https://example.org/posts/1079/</link>
+      <link>http://localhost:1313/posts/1079/</link>
       <pubDate>Mon, 19 Aug 2024 00:03:56 -0400</pubDate>
-      <guid>https://example.org/posts/1079/</guid>
+      <guid>http://localhost:1313/posts/1079/</guid>
       <description>FM 99 WNOR - 1989 Woodstock Festival Merch White XL T Shirt - Fruit of the Loom Small FM 99 logo on left chest, festival logo of bird on guitar neck &amp;amp; &amp;ldquo;2 decades of peace music&amp;rdquo; text on back. Year: 1989
 BIN 2</description>
     </item>

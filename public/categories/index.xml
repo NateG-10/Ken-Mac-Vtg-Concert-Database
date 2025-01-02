@@ -2,920 +2,962 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Ken Shirts</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2024 01:12:17 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 17:21:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jane&#39;s Addicition</title>
-      <link>https://example.org/categories/janes-addicition/</link>
+      <title>NO FX</title>
+      <link>http://localhost:1313/categories/no-fx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/janes-addicition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soul Asylum</title>
-      <link>https://example.org/categories/soul-asylum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/soul-asylum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>James Taylor</title>
-      <link>https://example.org/categories/james-taylor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/james-taylor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Hooters</title>
-      <link>https://example.org/categories/the-hooters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-hooters/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joan Jett and the Blackhearts</title>
-      <link>https://example.org/categories/joan-jett-and-the-blackhearts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/joan-jett-and-the-blackhearts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WrathChild America</title>
-      <link>https://example.org/categories/wrathchild-america/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/wrathchild-america/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rolling Stones</title>
-      <link>https://example.org/categories/rolling-stones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/rolling-stones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ramones</title>
-      <link>https://example.org/categories/ramones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/ramones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Midnight OIl</title>
-      <link>https://example.org/categories/midnight-oil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/midnight-oil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Wailers Band</title>
-      <link>https://example.org/categories/the-wailers-band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-wailers-band/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joe Satriani</title>
-      <link>https://example.org/categories/joe-satriani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/joe-satriani/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Coast 93.7 FM</title>
-      <link>https://example.org/categories/the-coast-93.7-fm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-coast-93.7-fm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Corona</title>
-      <link>https://example.org/categories/corona/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/corona/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jose Cuervo Tequila</title>
-      <link>https://example.org/categories/jose-cuervo-tequila/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/jose-cuervo-tequila/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Rolling Stones</title>
-      <link>https://example.org/categories/the-rolling-stones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-rolling-stones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brooks &amp; Dunn</title>
-      <link>https://example.org/categories/brooks--dunn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/brooks--dunn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inner Circle - Bad Boys of Reggae - Bad to the Bone</title>
-      <link>https://example.org/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Miller High Life Rock Series</title>
-      <link>https://example.org/categories/miller-high-life-rock-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/miller-high-life-rock-series/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>George Thorogood &amp; the Destroyers</title>
-      <link>https://example.org/categories/george-thorogood--the-destroyers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/george-thorogood--the-destroyers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jane&#39;s Addiction</title>
-      <link>https://example.org/categories/janes-addiction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/janes-addiction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drivin N Cryin</title>
-      <link>https://example.org/categories/drivin-n-cryin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/drivin-n-cryin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Connells</title>
-      <link>https://example.org/categories/the-connells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-connells/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Big Dawgs</title>
-      <link>https://example.org/categories/big-dawgs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/big-dawgs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LA Guns</title>
-      <link>https://example.org/categories/la-guns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/la-guns/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Coast - Radio 93.7</title>
-      <link>https://example.org/categories/the-coast---radio-93.7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-coast---radio-93.7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tommy and the Rumblers</title>
-      <link>https://example.org/categories/tommy-and-the-rumblers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/tommy-and-the-rumblers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chesterfield County Police</title>
-      <link>https://example.org/categories/chesterfield-county-police/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/chesterfield-county-police/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Genesis</title>
-      <link>https://example.org/categories/genesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/genesis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steel Pulse</title>
-      <link>https://example.org/categories/steel-pulse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/steel-pulse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Puppy Love</title>
-      <link>https://example.org/categories/puppy-love/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/puppy-love/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FM 99 WNOR</title>
-      <link>https://example.org/categories/fm-99-wnor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/fm-99-wnor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spectrum</title>
-      <link>https://example.org/categories/spectrum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/spectrum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scorpions</title>
-      <link>https://example.org/categories/scorpions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/scorpions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Producers</title>
-      <link>https://example.org/categories/the-producers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-producers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Megadeth</title>
-      <link>https://example.org/categories/megadeth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/megadeth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Melissa Etheridge</title>
-      <link>https://example.org/categories/melissa-etheridge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/melissa-etheridge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UB40</title>
-      <link>https://example.org/categories/ub40/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/ub40/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crosby Stills Nash</title>
-      <link>https://example.org/categories/crosby-stills-nash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/crosby-stills-nash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The B-52&#39;s</title>
-      <link>https://example.org/categories/the-b-52s/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-b-52s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Violent Femmes</title>
-      <link>https://example.org/categories/violent-femmes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/violent-femmes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Winger</title>
-      <link>https://example.org/categories/winger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/winger/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Van Halen Crew</title>
-      <link>https://example.org/categories/van-halen-crew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/van-halen-crew/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Ocean Blue</title>
-      <link>https://example.org/categories/the-ocean-blue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-ocean-blue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Skinny Puppy</title>
-      <link>https://example.org/categories/skinny-puppy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/skinny-puppy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cowboy Junkies</title>
-      <link>https://example.org/categories/cowboy-junkies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/cowboy-junkies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kentucky Headhunters</title>
-      <link>https://example.org/categories/kentucky-headhunters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/kentucky-headhunters/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Sports Section</title>
-      <link>https://example.org/categories/the-sports-section/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-sports-section/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jackson Brown</title>
-      <link>https://example.org/categories/jackson-brown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/jackson-brown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sangre Machehual</title>
-      <link>https://example.org/categories/sangre-machehual/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/sangre-machehual/</guid>
+      <guid>http://localhost:1313/categories/no-fx/</guid>
       <description></description>
     </item>
     <item>
       <title>BoDeans</title>
-      <link>https://example.org/categories/bodeans/</link>
+      <link>http://localhost:1313/categories/bodeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/bodeans/</guid>
+      <guid>http://localhost:1313/categories/bodeans/</guid>
       <description></description>
     </item>
     <item>
-      <title>The Smithereens</title>
-      <link>https://example.org/categories/the-smithereens/</link>
+      <title>Crosby Stills &amp; Nash</title>
+      <link>http://localhost:1313/categories/crosby-stills--nash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-smithereens/</guid>
+      <guid>http://localhost:1313/categories/crosby-stills--nash/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pip the Party Pig</title>
-      <link>https://example.org/categories/pip-the-party-pig/</link>
+      <title>Don Dokken</title>
+      <link>http://localhost:1313/categories/don-dokken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/pip-the-party-pig/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boathouse</title>
-      <link>https://example.org/categories/boathouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/boathouse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>B-52&#39;s</title>
-      <link>https://example.org/categories/b-52s/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/b-52s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dave Matthews Band</title>
-      <link>https://example.org/categories/dave-matthews-band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/dave-matthews-band/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nine Inch Nails</title>
-      <link>https://example.org/categories/nine-inch-nails/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/nine-inch-nails/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Madonna</title>
-      <link>https://example.org/categories/madonna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/madonna/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Warrant</title>
-      <link>https://example.org/categories/warrant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/warrant/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Living Colour</title>
-      <link>https://example.org/categories/living-colour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/living-colour/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Billy Squier</title>
-      <link>https://example.org/categories/billy-squier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/billy-squier/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Treetop Sound &amp; Music</title>
-      <link>https://example.org/categories/treetop-sound--music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/treetop-sound--music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Slayer</title>
-      <link>https://example.org/categories/slayer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/slayer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stagecraft Independent Contractors</title>
-      <link>https://example.org/categories/stagecraft-independent-contractors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/stagecraft-independent-contractors/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fruit of the Loom</title>
-      <link>https://example.org/categories/fruit-of-the-loom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/fruit-of-the-loom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Road Ducks</title>
-      <link>https://example.org/categories/road-ducks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/road-ducks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grateful Dead</title>
-      <link>https://example.org/categories/grateful-dead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/grateful-dead/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neo Duo</title>
-      <link>https://example.org/categories/neo-duo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/neo-duo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guadalcanal Diary</title>
-      <link>https://example.org/categories/guadalcanal-diary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/guadalcanal-diary/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bruce Hornsby &amp; the Range</title>
-      <link>https://example.org/categories/bruce-hornsby--the-range/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/bruce-hornsby--the-range/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steve Earle</title>
-      <link>https://example.org/categories/steve-earle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/steve-earle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robin Trower</title>
-      <link>https://example.org/categories/robin-trower/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/robin-trower/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Church</title>
-      <link>https://example.org/categories/the-church/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-church/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Third World</title>
-      <link>https://example.org/categories/third-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/third-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tommy Conwell &amp; the Young Rumblers</title>
-      <link>https://example.org/categories/tommy-conwell--the-young-rumblers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/tommy-conwell--the-young-rumblers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wailers Band</title>
-      <link>https://example.org/categories/wailers-band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/wailers-band/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paul Stanley</title>
-      <link>https://example.org/categories/paul-stanley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/paul-stanley/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Massive</title>
-      <link>https://example.org/categories/massive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/massive/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rush</title>
-      <link>https://example.org/categories/rush/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/rush/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Billy Idol</title>
-      <link>https://example.org/categories/billy-idol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/billy-idol/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eric Johnson</title>
-      <link>https://example.org/categories/eric-johnson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/eric-johnson/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Black Crowes</title>
-      <link>https://example.org/categories/the-black-crowes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-black-crowes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peter Murphy</title>
-      <link>https://example.org/categories/peter-murphy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/peter-murphy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waxing Poetics</title>
-      <link>https://example.org/categories/waxing-poetics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/waxing-poetics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bad English</title>
-      <link>https://example.org/categories/bad-english/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/bad-english/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Public Image Ltd.</title>
-      <link>https://example.org/categories/public-image-ltd./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/public-image-ltd./</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sound Garden</title>
-      <link>https://example.org/categories/sound-garden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/sound-garden/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mega Deth</title>
-      <link>https://example.org/categories/mega-deth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/mega-deth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Turner South</title>
-      <link>https://example.org/categories/turner-south/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/turner-south/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tori Amos</title>
-      <link>https://example.org/categories/tori-amos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/tori-amos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bud Concert Series</title>
-      <link>https://example.org/categories/bud-concert-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/bud-concert-series/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coal Chamber</title>
-      <link>https://example.org/categories/coal-chamber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/coal-chamber/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Type O Negative</title>
-      <link>https://example.org/categories/type-o-negative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/type-o-negative/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>97.5 3WV</title>
-      <link>https://example.org/categories/97.5-3wv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/97.5-3wv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lunatic</title>
-      <link>https://example.org/categories/lunatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/lunatic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phish</title>
-      <link>https://example.org/categories/phish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/phish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VB Amphitheater</title>
-      <link>https://example.org/categories/vb-amphitheater/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/vb-amphitheater/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nissan Pavilion</title>
-      <link>https://example.org/categories/nissan-pavilion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/nissan-pavilion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Godsmack</title>
-      <link>https://example.org/categories/godsmack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/godsmack/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Monica Maries</title>
-      <link>https://example.org/categories/monica-maries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/monica-maries/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lunatic Luau</title>
-      <link>https://example.org/categories/lunatic-luau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/lunatic-luau/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phil Lesh &amp; Friends</title>
-      <link>https://example.org/categories/phil-lesh--friends/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/phil-lesh--friends/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFX Music</title>
-      <link>https://example.org/categories/sfx-music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/sfx-music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WVGO 106.5 FM</title>
-      <link>https://example.org/categories/wvgo-106.5-fm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/wvgo-106.5-fm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Enrique Iglesias</title>
-      <link>https://example.org/categories/enrique-iglesias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/enrique-iglesias/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Van Halen</title>
-      <link>https://example.org/categories/van-halen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/van-halen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guns N&#39; Roses</title>
-      <link>https://example.org/categories/guns-n-roses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/guns-n-roses/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Porno for Pyros</title>
-      <link>https://example.org/categories/porno-for-pyros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/porno-for-pyros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ocean Potion</title>
-      <link>https://example.org/categories/ocean-potion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/ocean-potion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paul Mccartney</title>
-      <link>https://example.org/categories/paul-mccartney/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/paul-mccartney/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life, Sex &amp; Death</title>
-      <link>https://example.org/categories/life-sex--death/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/life-sex--death/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FM 99</title>
-      <link>https://example.org/categories/fm-99/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/fm-99/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trey Anastasio</title>
-      <link>https://example.org/categories/trey-anastasio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/trey-anastasio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Psychedelic Furs</title>
-      <link>https://example.org/categories/psychedelic-furs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/psychedelic-furs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fleetwood Mac</title>
-      <link>https://example.org/categories/fleetwood-mac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/fleetwood-mac/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The 38 Special</title>
-      <link>https://example.org/categories/the-38-special/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-38-special/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robert Cray Band</title>
-      <link>https://example.org/categories/robert-cray-band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/robert-cray-band/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sting</title>
-      <link>https://example.org/categories/sting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/sting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neil Young</title>
-      <link>https://example.org/categories/neil-young/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/neil-young/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aerosmith</title>
-      <link>https://example.org/categories/aerosmith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/aerosmith/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Poison</title>
-      <link>https://example.org/categories/poison/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/poison/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>High Impact Television Series</title>
-      <link>https://example.org/categories/high-impact-television-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/high-impact-television-series/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oingo Boingo</title>
-      <link>https://example.org/categories/oingo-boingo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/oingo-boingo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Planet Hollywood San Diego</title>
-      <link>https://example.org/categories/planet-hollywood-san-diego/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/planet-hollywood-san-diego/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Dead Milkmen</title>
-      <link>https://example.org/categories/the-dead-milkmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-dead-milkmen/</guid>
+      <guid>http://localhost:1313/categories/don-dokken/</guid>
       <description></description>
     </item>
     <item>
       <title>The Replacements</title>
-      <link>https://example.org/categories/the-replacements/</link>
+      <link>http://localhost:1313/categories/the-replacements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-replacements/</guid>
+      <guid>http://localhost:1313/categories/the-replacements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WASP</title>
+      <link>http://localhost:1313/categories/wasp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wasp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tom Tom Club</title>
+      <link>http://localhost:1313/categories/tom-tom-club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tom-tom-club/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Robert Cray Band</title>
+      <link>http://localhost:1313/categories/the-robert-cray-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-robert-cray-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genesis</title>
+      <link>http://localhost:1313/categories/genesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/genesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jane&#39;s Addicition</title>
+      <link>http://localhost:1313/categories/janes-addicition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/janes-addicition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soul Asylum</title>
+      <link>http://localhost:1313/categories/soul-asylum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/soul-asylum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>James Taylor</title>
+      <link>http://localhost:1313/categories/james-taylor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/james-taylor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Hooters</title>
+      <link>http://localhost:1313/categories/the-hooters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-hooters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joan Jett and the Blackhearts</title>
+      <link>http://localhost:1313/categories/joan-jett-and-the-blackhearts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/joan-jett-and-the-blackhearts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WrathChild America</title>
+      <link>http://localhost:1313/categories/wrathchild-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wrathchild-america/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rolling Stones</title>
+      <link>http://localhost:1313/categories/rolling-stones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/rolling-stones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ramones</title>
+      <link>http://localhost:1313/categories/ramones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ramones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Midnight OIl</title>
+      <link>http://localhost:1313/categories/midnight-oil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/midnight-oil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Wailers Band</title>
+      <link>http://localhost:1313/categories/the-wailers-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-wailers-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joe Satriani</title>
+      <link>http://localhost:1313/categories/joe-satriani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/joe-satriani/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Coast 93.7 FM</title>
+      <link>http://localhost:1313/categories/the-coast-93.7-fm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-coast-93.7-fm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corona</title>
+      <link>http://localhost:1313/categories/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/corona/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jose Cuervo Tequila</title>
+      <link>http://localhost:1313/categories/jose-cuervo-tequila/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/jose-cuervo-tequila/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Rolling Stones</title>
+      <link>http://localhost:1313/categories/the-rolling-stones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-rolling-stones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brooks &amp; Dunn</title>
+      <link>http://localhost:1313/categories/brooks--dunn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/brooks--dunn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inner Circle - Bad Boys of Reggae - Bad to the Bone</title>
+      <link>http://localhost:1313/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miller High Life Rock Series</title>
+      <link>http://localhost:1313/categories/miller-high-life-rock-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/miller-high-life-rock-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>George Thorogood &amp; the Destroyers</title>
+      <link>http://localhost:1313/categories/george-thorogood--the-destroyers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/george-thorogood--the-destroyers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jane&#39;s Addiction</title>
+      <link>http://localhost:1313/categories/janes-addiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/janes-addiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drivin N Cryin</title>
+      <link>http://localhost:1313/categories/drivin-n-cryin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/drivin-n-cryin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Connells</title>
+      <link>http://localhost:1313/categories/the-connells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-connells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Big Dawgs</title>
+      <link>http://localhost:1313/categories/big-dawgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/big-dawgs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LA Guns</title>
+      <link>http://localhost:1313/categories/la-guns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/la-guns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Coast - Radio 93.7</title>
+      <link>http://localhost:1313/categories/the-coast---radio-93.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-coast---radio-93.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tommy and the Rumblers</title>
+      <link>http://localhost:1313/categories/tommy-and-the-rumblers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tommy-and-the-rumblers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chesterfield County Police</title>
+      <link>http://localhost:1313/categories/chesterfield-county-police/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/chesterfield-county-police/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steel Pulse</title>
+      <link>http://localhost:1313/categories/steel-pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/steel-pulse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puppy Love</title>
+      <link>http://localhost:1313/categories/puppy-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/puppy-love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FM 99 WNOR</title>
+      <link>http://localhost:1313/categories/fm-99-wnor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fm-99-wnor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spectrum</title>
+      <link>http://localhost:1313/categories/spectrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/spectrum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scorpions</title>
+      <link>http://localhost:1313/categories/scorpions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/scorpions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Producers</title>
+      <link>http://localhost:1313/categories/the-producers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-producers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Megadeth</title>
+      <link>http://localhost:1313/categories/megadeth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/megadeth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melissa Etheridge</title>
+      <link>http://localhost:1313/categories/melissa-etheridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/melissa-etheridge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UB40</title>
+      <link>http://localhost:1313/categories/ub40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ub40/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crosby Stills Nash</title>
+      <link>http://localhost:1313/categories/crosby-stills-nash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/crosby-stills-nash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The B-52&#39;s</title>
+      <link>http://localhost:1313/categories/the-b-52s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-b-52s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Violent Femmes</title>
+      <link>http://localhost:1313/categories/violent-femmes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/violent-femmes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winger</title>
+      <link>http://localhost:1313/categories/winger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/winger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Van Halen Crew</title>
+      <link>http://localhost:1313/categories/van-halen-crew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/van-halen-crew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Ocean Blue</title>
+      <link>http://localhost:1313/categories/the-ocean-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-ocean-blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skinny Puppy</title>
+      <link>http://localhost:1313/categories/skinny-puppy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/skinny-puppy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cowboy Junkies</title>
+      <link>http://localhost:1313/categories/cowboy-junkies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cowboy-junkies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kentucky Headhunters</title>
+      <link>http://localhost:1313/categories/kentucky-headhunters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/kentucky-headhunters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Sports Section</title>
+      <link>http://localhost:1313/categories/the-sports-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-sports-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jackson Brown</title>
+      <link>http://localhost:1313/categories/jackson-brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/jackson-brown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sangre Machehual</title>
+      <link>http://localhost:1313/categories/sangre-machehual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sangre-machehual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Smithereens</title>
+      <link>http://localhost:1313/categories/the-smithereens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-smithereens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pip the Party Pig</title>
+      <link>http://localhost:1313/categories/pip-the-party-pig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/pip-the-party-pig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boathouse</title>
+      <link>http://localhost:1313/categories/boathouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/boathouse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B-52&#39;s</title>
+      <link>http://localhost:1313/categories/b-52s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/b-52s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dave Matthews Band</title>
+      <link>http://localhost:1313/categories/dave-matthews-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dave-matthews-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nine Inch Nails</title>
+      <link>http://localhost:1313/categories/nine-inch-nails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/nine-inch-nails/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Madonna</title>
+      <link>http://localhost:1313/categories/madonna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/madonna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warrant</title>
+      <link>http://localhost:1313/categories/warrant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/warrant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living Colour</title>
+      <link>http://localhost:1313/categories/living-colour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/living-colour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Billy Squier</title>
+      <link>http://localhost:1313/categories/billy-squier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/billy-squier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Treetop Sound &amp; Music</title>
+      <link>http://localhost:1313/categories/treetop-sound--music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/treetop-sound--music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slayer</title>
+      <link>http://localhost:1313/categories/slayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/slayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stagecraft Independent Contractors</title>
+      <link>http://localhost:1313/categories/stagecraft-independent-contractors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/stagecraft-independent-contractors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruit of the Loom</title>
+      <link>http://localhost:1313/categories/fruit-of-the-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fruit-of-the-loom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Road Ducks</title>
+      <link>http://localhost:1313/categories/road-ducks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/road-ducks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grateful Dead</title>
+      <link>http://localhost:1313/categories/grateful-dead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/grateful-dead/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neo Duo</title>
+      <link>http://localhost:1313/categories/neo-duo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/neo-duo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guadalcanal Diary</title>
+      <link>http://localhost:1313/categories/guadalcanal-diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guadalcanal-diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruce Hornsby &amp; the Range</title>
+      <link>http://localhost:1313/categories/bruce-hornsby--the-range/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bruce-hornsby--the-range/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steve Earle</title>
+      <link>http://localhost:1313/categories/steve-earle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/steve-earle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robin Trower</title>
+      <link>http://localhost:1313/categories/robin-trower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/robin-trower/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Church</title>
+      <link>http://localhost:1313/categories/the-church/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-church/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Third World</title>
+      <link>http://localhost:1313/categories/third-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/third-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tommy Conwell &amp; the Young Rumblers</title>
+      <link>http://localhost:1313/categories/tommy-conwell--the-young-rumblers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tommy-conwell--the-young-rumblers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wailers Band</title>
+      <link>http://localhost:1313/categories/wailers-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wailers-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Stanley</title>
+      <link>http://localhost:1313/categories/paul-stanley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paul-stanley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Massive</title>
+      <link>http://localhost:1313/categories/massive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/massive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rush</title>
+      <link>http://localhost:1313/categories/rush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/rush/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Billy Idol</title>
+      <link>http://localhost:1313/categories/billy-idol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/billy-idol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eric Johnson</title>
+      <link>http://localhost:1313/categories/eric-johnson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/eric-johnson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Black Crowes</title>
+      <link>http://localhost:1313/categories/the-black-crowes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-black-crowes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peter Murphy</title>
+      <link>http://localhost:1313/categories/peter-murphy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/peter-murphy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waxing Poetics</title>
+      <link>http://localhost:1313/categories/waxing-poetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/waxing-poetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bad English</title>
+      <link>http://localhost:1313/categories/bad-english/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bad-english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Public Image Ltd.</title>
+      <link>http://localhost:1313/categories/public-image-ltd./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/public-image-ltd./</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sound Garden</title>
+      <link>http://localhost:1313/categories/sound-garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sound-garden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mega Deth</title>
+      <link>http://localhost:1313/categories/mega-deth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mega-deth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turner South</title>
+      <link>http://localhost:1313/categories/turner-south/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/turner-south/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tori Amos</title>
+      <link>http://localhost:1313/categories/tori-amos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tori-amos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bud Concert Series</title>
+      <link>http://localhost:1313/categories/bud-concert-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bud-concert-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coal Chamber</title>
+      <link>http://localhost:1313/categories/coal-chamber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/coal-chamber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Type O Negative</title>
+      <link>http://localhost:1313/categories/type-o-negative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/type-o-negative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>97.5 3WV</title>
+      <link>http://localhost:1313/categories/97.5-3wv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/97.5-3wv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunatic</title>
+      <link>http://localhost:1313/categories/lunatic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/lunatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phish</title>
+      <link>http://localhost:1313/categories/phish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VB Amphitheater</title>
+      <link>http://localhost:1313/categories/vb-amphitheater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/vb-amphitheater/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nissan Pavilion</title>
+      <link>http://localhost:1313/categories/nissan-pavilion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/nissan-pavilion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Godsmack</title>
+      <link>http://localhost:1313/categories/godsmack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/godsmack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monica Maries</title>
+      <link>http://localhost:1313/categories/monica-maries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/monica-maries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunatic Luau</title>
+      <link>http://localhost:1313/categories/lunatic-luau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/lunatic-luau/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phil Lesh &amp; Friends</title>
+      <link>http://localhost:1313/categories/phil-lesh--friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phil-lesh--friends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFX Music</title>
+      <link>http://localhost:1313/categories/sfx-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sfx-music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WVGO 106.5 FM</title>
+      <link>http://localhost:1313/categories/wvgo-106.5-fm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wvgo-106.5-fm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enrique Iglesias</title>
+      <link>http://localhost:1313/categories/enrique-iglesias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/enrique-iglesias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Van Halen</title>
+      <link>http://localhost:1313/categories/van-halen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/van-halen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guns N&#39; Roses</title>
+      <link>http://localhost:1313/categories/guns-n-roses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guns-n-roses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Porno for Pyros</title>
+      <link>http://localhost:1313/categories/porno-for-pyros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/porno-for-pyros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocean Potion</title>
+      <link>http://localhost:1313/categories/ocean-potion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ocean-potion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Mccartney</title>
+      <link>http://localhost:1313/categories/paul-mccartney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paul-mccartney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life, Sex &amp; Death</title>
+      <link>http://localhost:1313/categories/life-sex--death/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/life-sex--death/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FM 99</title>
+      <link>http://localhost:1313/categories/fm-99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fm-99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trey Anastasio</title>
+      <link>http://localhost:1313/categories/trey-anastasio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/trey-anastasio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychedelic Furs</title>
+      <link>http://localhost:1313/categories/psychedelic-furs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/psychedelic-furs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fleetwood Mac</title>
+      <link>http://localhost:1313/categories/fleetwood-mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fleetwood-mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The 38 Special</title>
+      <link>http://localhost:1313/categories/the-38-special/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-38-special/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robert Cray Band</title>
+      <link>http://localhost:1313/categories/robert-cray-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/robert-cray-band/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sting</title>
+      <link>http://localhost:1313/categories/sting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neil Young</title>
+      <link>http://localhost:1313/categories/neil-young/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/neil-young/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aerosmith</title>
+      <link>http://localhost:1313/categories/aerosmith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/aerosmith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poison</title>
+      <link>http://localhost:1313/categories/poison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/poison/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High Impact Television Series</title>
+      <link>http://localhost:1313/categories/high-impact-television-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/high-impact-television-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oingo Boingo</title>
+      <link>http://localhost:1313/categories/oingo-boingo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/oingo-boingo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planet Hollywood San Diego</title>
+      <link>http://localhost:1313/categories/planet-hollywood-san-diego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/planet-hollywood-san-diego/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Dead Milkmen</title>
+      <link>http://localhost:1313/categories/the-dead-milkmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/the-dead-milkmen/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-Gazette Pavilion</title>
-      <link>https://example.org/categories/post-gazette-pavilion/</link>
+      <link>http://localhost:1313/categories/post-gazette-pavilion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/post-gazette-pavilion/</guid>
+      <guid>http://localhost:1313/categories/post-gazette-pavilion/</guid>
       <description></description>
     </item>
     <item>
       <title>Salem Civic Center Complex</title>
-      <link>https://example.org/categories/salem-civic-center-complex/</link>
+      <link>http://localhost:1313/categories/salem-civic-center-complex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/salem-civic-center-complex/</guid>
+      <guid>http://localhost:1313/categories/salem-civic-center-complex/</guid>
       <description></description>
     </item>
     <item>
       <title>The Allman Brothers</title>
-      <link>https://example.org/categories/the-allman-brothers/</link>
+      <link>http://localhost:1313/categories/the-allman-brothers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/the-allman-brothers/</guid>
+      <guid>http://localhost:1313/categories/the-allman-brothers/</guid>
       <description></description>
     </item>
     <item>
       <title>Norman Bates and the Showerheads</title>
-      <link>https://example.org/categories/norman-bates-and-the-showerheads/</link>
+      <link>http://localhost:1313/categories/norman-bates-and-the-showerheads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/norman-bates-and-the-showerheads/</guid>
+      <guid>http://localhost:1313/categories/norman-bates-and-the-showerheads/</guid>
       <description></description>
     </item>
     <item>
       <title>Rod Stewart</title>
-      <link>https://example.org/categories/rod-stewart/</link>
+      <link>http://localhost:1313/categories/rod-stewart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/rod-stewart/</guid>
+      <guid>http://localhost:1313/categories/rod-stewart/</guid>
       <description></description>
     </item>
   </channel>

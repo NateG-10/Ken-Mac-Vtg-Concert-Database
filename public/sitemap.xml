@@ -2,981 +2,1026 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/1149/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-02T17:27:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-02T17:27:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1158/</loc>
+    <lastmod>2025-01-02T17:21:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-02T17:21:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
+    <lastmod>2025-01-02T17:21:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/no-fx/</loc>
+    <lastmod>2025-01-02T17:21:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-02T17:21:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1157/</loc>
+    <lastmod>2025-01-02T17:21:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bodeans/</loc>
+    <lastmod>2025-01-02T17:21:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1156/</loc>
+    <lastmod>2025-01-02T17:21:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/crosby-stills--nash/</loc>
+    <lastmod>2025-01-02T17:21:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hanes/</loc>
+    <lastmod>2025-01-02T17:21:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1155/</loc>
+    <lastmod>2025-01-02T17:21:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/don-dokken/</loc>
+    <lastmod>2025-01-02T17:21:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tee-jays/</loc>
+    <lastmod>2025-01-02T17:21:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1154/</loc>
+    <lastmod>2025-01-02T17:21:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spring-ford/</loc>
+    <lastmod>2025-01-02T17:21:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-replacements/</loc>
+    <lastmod>2025-01-02T17:21:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1153/</loc>
+    <lastmod>2025-01-02T17:21:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n/a/</loc>
+    <lastmod>2025-01-02T17:21:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/wasp/</loc>
+    <lastmod>2025-01-02T17:21:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1152/</loc>
+    <lastmod>2025-01-02T17:21:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tom-tom-club/</loc>
+    <lastmod>2025-01-02T17:21:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1151/</loc>
+    <lastmod>2025-01-02T17:21:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-robert-cray-band/</loc>
+    <lastmod>2025-01-02T17:21:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1150/</loc>
+    <lastmod>2025-01-02T17:20:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/genesis/</loc>
+    <lastmod>2025-01-02T17:20:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1149/</loc>
     <lastmod>2024-09-26T01:12:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/janes-addicition/</loc>
     <lastmod>2024-09-26T01:12:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/janes-addicition/</loc>
-    <lastmod>2024-09-26T01:12:17-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-09-26T01:12:17-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/n/a/</loc>
-    <lastmod>2024-09-26T01:12:17-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-09-26T01:12:17-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2024-09-26T01:12:17-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1148/</loc>
+    <loc>http://localhost:1313/posts/1148/</loc>
     <lastmod>2024-09-26T01:12:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/giant/</loc>
+    <loc>http://localhost:1313/tags/giant/</loc>
     <lastmod>2024-09-26T01:12:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/soul-asylum/</loc>
+    <loc>http://localhost:1313/categories/soul-asylum/</loc>
     <lastmod>2024-09-26T01:12:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1147/</loc>
+    <loc>http://localhost:1313/posts/1147/</loc>
     <lastmod>2024-09-26T01:12:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hanes/</loc>
+    <loc>http://localhost:1313/categories/james-taylor/</loc>
     <lastmod>2024-09-26T01:12:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/james-taylor/</loc>
-    <lastmod>2024-09-26T01:12:14-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1146/</loc>
+    <loc>http://localhost:1313/posts/1146/</loc>
     <lastmod>2024-09-26T01:12:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-hooters/</loc>
+    <loc>http://localhost:1313/categories/the-hooters/</loc>
     <lastmod>2024-09-26T01:12:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1145/</loc>
+    <loc>http://localhost:1313/posts/1145/</loc>
     <lastmod>2024-09-26T01:12:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/joan-jett-and-the-blackhearts/</loc>
+    <loc>http://localhost:1313/categories/joan-jett-and-the-blackhearts/</loc>
     <lastmod>2024-09-26T01:12:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1144/</loc>
+    <loc>http://localhost:1313/posts/1144/</loc>
     <lastmod>2024-09-26T01:12:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/jerzees/</loc>
+    <loc>http://localhost:1313/tags/jerzees/</loc>
     <lastmod>2024-09-26T01:12:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/wrathchild-america/</loc>
+    <loc>http://localhost:1313/categories/wrathchild-america/</loc>
     <lastmod>2024-09-26T01:12:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1143/</loc>
+    <loc>http://localhost:1313/posts/1143/</loc>
     <lastmod>2024-09-26T01:12:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/rolling-stones/</loc>
+    <loc>http://localhost:1313/categories/rolling-stones/</loc>
     <lastmod>2024-09-26T01:12:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/white-house/</loc>
+    <loc>http://localhost:1313/tags/white-house/</loc>
     <lastmod>2024-09-26T01:12:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1142/</loc>
+    <loc>http://localhost:1313/posts/1142/</loc>
     <lastmod>2024-09-26T01:12:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/ramones/</loc>
+    <loc>http://localhost:1313/categories/ramones/</loc>
     <lastmod>2024-09-26T01:12:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/screen-stars/</loc>
+    <loc>http://localhost:1313/tags/screen-stars/</loc>
     <lastmod>2024-09-26T01:12:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1141/</loc>
+    <loc>http://localhost:1313/posts/1141/</loc>
     <lastmod>2024-09-26T01:11:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/brockum-collection/</loc>
+    <loc>http://localhost:1313/tags/brockum-collection/</loc>
     <lastmod>2024-09-26T01:11:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/midnight-oil/</loc>
+    <loc>http://localhost:1313/categories/midnight-oil/</loc>
     <lastmod>2024-09-26T01:11:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1140/</loc>
+    <loc>http://localhost:1313/posts/1140/</loc>
     <lastmod>2024-09-26T01:11:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-wailers-band/</loc>
+    <loc>http://localhost:1313/categories/the-wailers-band/</loc>
     <lastmod>2024-09-26T01:11:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1139/</loc>
+    <loc>http://localhost:1313/posts/1139/</loc>
     <lastmod>2024-09-26T01:11:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/joe-satriani/</loc>
+    <loc>http://localhost:1313/categories/joe-satriani/</loc>
     <lastmod>2024-09-26T01:11:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1138/</loc>
+    <loc>http://localhost:1313/posts/1138/</loc>
     <lastmod>2024-09-26T01:11:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-coast-93.7-fm/</loc>
+    <loc>http://localhost:1313/categories/the-coast-93.7-fm/</loc>
     <lastmod>2024-09-26T01:11:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1137/</loc>
+    <loc>http://localhost:1313/posts/1137/</loc>
     <lastmod>2024-09-26T01:11:49-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/corona/</loc>
+    <loc>http://localhost:1313/categories/corona/</loc>
     <lastmod>2024-09-26T01:11:49-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1136/</loc>
+    <loc>http://localhost:1313/posts/1136/</loc>
     <lastmod>2024-09-26T01:11:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/jose-cuervo-tequila/</loc>
+    <loc>http://localhost:1313/categories/jose-cuervo-tequila/</loc>
     <lastmod>2024-09-26T01:11:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/poco-loco/</loc>
+    <loc>http://localhost:1313/tags/poco-loco/</loc>
     <lastmod>2024-09-26T01:11:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1135/</loc>
+    <loc>http://localhost:1313/posts/1135/</loc>
     <lastmod>2024-09-26T01:11:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-rolling-stones/</loc>
+    <loc>http://localhost:1313/categories/the-rolling-stones/</loc>
     <lastmod>2024-09-26T01:11:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1134/</loc>
+    <loc>http://localhost:1313/posts/1134/</loc>
     <lastmod>2024-09-26T01:11:45-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/brooks--dunn/</loc>
+    <loc>http://localhost:1313/categories/brooks--dunn/</loc>
     <lastmod>2024-09-26T01:11:45-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fruit-of-the-loom/</loc>
-    <lastmod>2024-09-26T01:11:45-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1133/</loc>
+    <loc>http://localhost:1313/posts/1133/</loc>
     <lastmod>2024-09-26T01:11:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</loc>
+    <loc>http://localhost:1313/categories/inner-circle---bad-boys-of-reggae---bad-to-the-bone/</loc>
     <lastmod>2024-09-26T01:11:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1132/</loc>
+    <loc>http://localhost:1313/posts/1132/</loc>
     <lastmod>2024-09-26T01:11:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/miller-high-life-rock-series/</loc>
+    <loc>http://localhost:1313/categories/miller-high-life-rock-series/</loc>
     <lastmod>2024-09-26T01:11:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/signal/</loc>
+    <loc>http://localhost:1313/tags/signal/</loc>
     <lastmod>2024-09-26T01:11:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1131/</loc>
+    <loc>http://localhost:1313/posts/1131/</loc>
     <lastmod>2024-09-26T01:10:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/george-thorogood--the-destroyers/</loc>
+    <loc>http://localhost:1313/categories/george-thorogood--the-destroyers/</loc>
     <lastmod>2024-09-26T01:10:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1130/</loc>
+    <loc>http://localhost:1313/posts/1130/</loc>
     <lastmod>2024-09-26T01:10:44-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/brockum-group/</loc>
+    <loc>http://localhost:1313/tags/brockum-group/</loc>
     <lastmod>2024-09-26T01:10:44-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/janes-addiction/</loc>
+    <loc>http://localhost:1313/categories/janes-addiction/</loc>
     <lastmod>2024-09-26T01:10:44-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1129/</loc>
+    <loc>http://localhost:1313/posts/1129/</loc>
     <lastmod>2024-09-26T01:10:35-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/drivin-n-cryin/</loc>
+    <loc>http://localhost:1313/categories/drivin-n-cryin/</loc>
     <lastmod>2024-09-26T01:10:35-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1128/</loc>
+    <loc>http://localhost:1313/posts/1128/</loc>
     <lastmod>2024-09-26T01:10:33-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/all-sports/</loc>
+    <loc>http://localhost:1313/tags/all-sports/</loc>
     <lastmod>2024-09-26T01:10:33-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-connells/</loc>
+    <loc>http://localhost:1313/categories/the-connells/</loc>
     <lastmod>2024-09-26T01:10:33-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1127/</loc>
+    <loc>http://localhost:1313/posts/1127/</loc>
     <lastmod>2024-09-26T01:10:31-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/big-dawgs/</loc>
+    <loc>http://localhost:1313/categories/big-dawgs/</loc>
     <lastmod>2024-09-26T01:10:31-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/center-star/</loc>
+    <loc>http://localhost:1313/tags/center-star/</loc>
     <lastmod>2024-09-26T01:10:31-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1126/</loc>
+    <loc>http://localhost:1313/posts/1126/</loc>
     <lastmod>2024-09-26T01:10:30-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/la-guns/</loc>
+    <loc>http://localhost:1313/categories/la-guns/</loc>
     <lastmod>2024-09-26T01:10:30-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1125/</loc>
+    <loc>http://localhost:1313/posts/1125/</loc>
     <lastmod>2024-09-26T01:10:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/delta/</loc>
+    <loc>http://localhost:1313/tags/delta/</loc>
     <lastmod>2024-09-26T01:10:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-coast---radio-93.7/</loc>
+    <loc>http://localhost:1313/categories/the-coast---radio-93.7/</loc>
     <lastmod>2024-09-26T01:10:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1124/</loc>
+    <loc>http://localhost:1313/posts/1124/</loc>
     <lastmod>2024-09-26T01:10:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/tommy-and-the-rumblers/</loc>
+    <loc>http://localhost:1313/categories/tommy-and-the-rumblers/</loc>
     <lastmod>2024-09-26T01:10:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1123/</loc>
+    <loc>http://localhost:1313/posts/1123/</loc>
     <lastmod>2024-09-26T01:10:25-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/chesterfield-county-police/</loc>
+    <loc>http://localhost:1313/categories/chesterfield-county-police/</loc>
     <lastmod>2024-09-26T01:10:25-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1122/</loc>
+    <loc>http://localhost:1313/posts/1122/</loc>
     <lastmod>2024-09-26T01:10:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/genesis/</loc>
+    <loc>http://localhost:1313/tags/spring-ford-classic/</loc>
     <lastmod>2024-09-26T01:10:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/spring-ford-classic/</loc>
-    <lastmod>2024-09-26T01:10:24-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1121/</loc>
+    <loc>http://localhost:1313/posts/1121/</loc>
     <lastmod>2024-09-26T01:10:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/anvil/</loc>
+    <loc>http://localhost:1313/tags/anvil/</loc>
     <lastmod>2024-09-26T01:10:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/steel-pulse/</loc>
+    <loc>http://localhost:1313/categories/steel-pulse/</loc>
     <lastmod>2024-09-26T01:10:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1120/</loc>
+    <loc>http://localhost:1313/posts/1120/</loc>
     <lastmod>2024-09-26T01:10:21-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/puppy-love/</loc>
+    <loc>http://localhost:1313/categories/puppy-love/</loc>
     <lastmod>2024-09-26T01:10:21-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1119/</loc>
+    <loc>http://localhost:1313/posts/1119/</loc>
     <lastmod>2024-09-26T01:10:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/fm-99-wnor/</loc>
+    <loc>http://localhost:1313/categories/fm-99-wnor/</loc>
     <lastmod>2024-09-26T01:10:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1118/</loc>
+    <loc>http://localhost:1313/posts/1118/</loc>
     <lastmod>2024-09-26T01:10:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/spectrum/</loc>
+    <loc>http://localhost:1313/categories/spectrum/</loc>
     <lastmod>2024-09-26T01:10:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1117/</loc>
+    <loc>http://localhost:1313/posts/1117/</loc>
     <lastmod>2024-09-26T01:10:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/scorpions/</loc>
+    <loc>http://localhost:1313/categories/scorpions/</loc>
     <lastmod>2024-09-26T01:10:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1116/</loc>
+    <loc>http://localhost:1313/posts/1116/</loc>
     <lastmod>2024-09-26T01:10:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-producers/</loc>
+    <loc>http://localhost:1313/categories/the-producers/</loc>
     <lastmod>2024-09-26T01:10:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1115/</loc>
+    <loc>http://localhost:1313/posts/1115/</loc>
     <lastmod>2024-09-26T01:09:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/megadeth/</loc>
+    <loc>http://localhost:1313/categories/megadeth/</loc>
     <lastmod>2024-09-26T01:09:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1114/</loc>
+    <loc>http://localhost:1313/posts/1114/</loc>
     <lastmod>2024-09-26T01:09:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1113/</loc>
+    <loc>http://localhost:1313/posts/1113/</loc>
     <lastmod>2024-09-26T01:09:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/melissa-etheridge/</loc>
+    <loc>http://localhost:1313/categories/melissa-etheridge/</loc>
     <lastmod>2024-09-26T01:09:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1112/</loc>
+    <loc>http://localhost:1313/posts/1112/</loc>
     <lastmod>2024-09-26T01:09:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/ub40/</loc>
+    <loc>http://localhost:1313/categories/ub40/</loc>
     <lastmod>2024-09-26T01:09:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1111/</loc>
+    <loc>http://localhost:1313/posts/1111/</loc>
     <lastmod>2024-09-26T01:09:42-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/crosby-stills-nash/</loc>
+    <loc>http://localhost:1313/categories/crosby-stills-nash/</loc>
     <lastmod>2024-09-26T01:09:42-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1110/</loc>
+    <loc>http://localhost:1313/posts/1110/</loc>
     <lastmod>2024-09-02T01:10:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-b-52s/</loc>
+    <loc>http://localhost:1313/categories/the-b-52s/</loc>
     <lastmod>2024-09-02T01:10:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1109/</loc>
+    <loc>http://localhost:1313/posts/1109/</loc>
     <lastmod>2024-09-02T01:10:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/violent-femmes/</loc>
+    <loc>http://localhost:1313/categories/violent-femmes/</loc>
     <lastmod>2024-09-02T01:10:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1108/</loc>
+    <loc>http://localhost:1313/posts/1108/</loc>
     <lastmod>2024-09-02T01:10:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/winger/</loc>
+    <loc>http://localhost:1313/categories/winger/</loc>
     <lastmod>2024-09-02T01:10:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1107/</loc>
+    <loc>http://localhost:1313/posts/1107/</loc>
     <lastmod>2024-09-02T01:10:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/van-halen-crew/</loc>
+    <loc>http://localhost:1313/categories/van-halen-crew/</loc>
     <lastmod>2024-09-02T01:10:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1106/</loc>
+    <loc>http://localhost:1313/posts/1106/</loc>
     <lastmod>2024-09-02T01:10:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-ocean-blue/</loc>
+    <loc>http://localhost:1313/categories/the-ocean-blue/</loc>
     <lastmod>2024-09-02T01:10:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1105/</loc>
+    <loc>http://localhost:1313/posts/1105/</loc>
     <lastmod>2024-09-02T01:10:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/skinny-puppy/</loc>
+    <loc>http://localhost:1313/categories/skinny-puppy/</loc>
     <lastmod>2024-09-02T01:10:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1104/</loc>
+    <loc>http://localhost:1313/posts/1104/</loc>
     <lastmod>2024-09-02T01:09:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/cowboy-junkies/</loc>
+    <loc>http://localhost:1313/categories/cowboy-junkies/</loc>
     <lastmod>2024-09-02T01:09:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1103/</loc>
+    <loc>http://localhost:1313/posts/1103/</loc>
     <lastmod>2024-09-02T01:09:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/kentucky-headhunters/</loc>
+    <loc>http://localhost:1313/categories/kentucky-headhunters/</loc>
     <lastmod>2024-09-02T01:09:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1102/</loc>
+    <loc>http://localhost:1313/posts/1102/</loc>
     <lastmod>2024-09-02T01:09:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-sports-section/</loc>
+    <loc>http://localhost:1313/categories/the-sports-section/</loc>
     <lastmod>2024-09-02T01:09:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1101/</loc>
+    <loc>http://localhost:1313/posts/1101/</loc>
     <lastmod>2024-09-01T16:38:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/jackson-brown/</loc>
+    <loc>http://localhost:1313/categories/jackson-brown/</loc>
     <lastmod>2024-09-01T16:38:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/sangre-machehual/</loc>
+    <loc>http://localhost:1313/categories/sangre-machehual/</loc>
     <lastmod>2024-09-01T16:38:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/stedman/</loc>
+    <loc>http://localhost:1313/tags/stedman/</loc>
     <lastmod>2024-09-01T16:38:27-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1100/</loc>
+    <loc>http://localhost:1313/posts/1100/</loc>
     <lastmod>2024-08-30T17:05:20-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/bodeans/</loc>
-    <lastmod>2024-08-30T17:05:20-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1099/</loc>
+    <loc>http://localhost:1313/posts/1099/</loc>
     <lastmod>2024-08-30T17:05:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-smithereens/</loc>
+    <loc>http://localhost:1313/categories/the-smithereens/</loc>
     <lastmod>2024-08-30T17:05:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1098/</loc>
+    <loc>http://localhost:1313/posts/1098/</loc>
     <lastmod>2024-08-30T17:05:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/miller/</loc>
+    <loc>http://localhost:1313/tags/miller/</loc>
     <lastmod>2024-08-30T17:05:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/pip-the-party-pig/</loc>
+    <loc>http://localhost:1313/categories/pip-the-party-pig/</loc>
     <lastmod>2024-08-30T17:05:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1097/</loc>
+    <loc>http://localhost:1313/posts/1097/</loc>
     <lastmod>2024-08-30T17:05:15-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/boathouse/</loc>
+    <loc>http://localhost:1313/categories/boathouse/</loc>
     <lastmod>2024-08-30T17:05:15-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1096/</loc>
+    <loc>http://localhost:1313/posts/1096/</loc>
     <lastmod>2024-08-30T17:05:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/b-52s/</loc>
+    <loc>http://localhost:1313/categories/b-52s/</loc>
     <lastmod>2024-08-30T17:05:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/oneita/</loc>
+    <loc>http://localhost:1313/tags/oneita/</loc>
     <lastmod>2024-08-30T17:05:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1095/</loc>
+    <loc>http://localhost:1313/posts/1095/</loc>
     <lastmod>2024-08-30T16:28:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/dave-matthews-band/</loc>
+    <loc>http://localhost:1313/categories/dave-matthews-band/</loc>
     <lastmod>2024-08-30T16:28:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1094/</loc>
+    <loc>http://localhost:1313/posts/1094/</loc>
     <lastmod>2024-08-30T16:28:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/nine-inch-nails/</loc>
+    <loc>http://localhost:1313/categories/nine-inch-nails/</loc>
     <lastmod>2024-08-30T16:28:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1093/</loc>
+    <loc>http://localhost:1313/posts/1093/</loc>
     <lastmod>2024-08-30T16:28:13-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1092/</loc>
+    <loc>http://localhost:1313/posts/1092/</loc>
     <lastmod>2024-08-30T16:28:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/madonna/</loc>
+    <loc>http://localhost:1313/categories/madonna/</loc>
     <lastmod>2024-08-30T16:28:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1091/</loc>
+    <loc>http://localhost:1313/posts/1091/</loc>
     <lastmod>2024-08-30T16:28:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1090/</loc>
+    <loc>http://localhost:1313/posts/1090/</loc>
     <lastmod>2024-08-30T15:30:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/spring-ford/</loc>
+    <loc>http://localhost:1313/categories/warrant/</loc>
     <lastmod>2024-08-30T15:30:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/warrant/</loc>
-    <lastmod>2024-08-30T15:30:59-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1089/</loc>
+    <loc>http://localhost:1313/posts/1089/</loc>
     <lastmod>2024-08-30T15:30:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/living-colour/</loc>
+    <loc>http://localhost:1313/categories/living-colour/</loc>
     <lastmod>2024-08-30T15:30:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1088/</loc>
+    <loc>http://localhost:1313/posts/1088/</loc>
     <lastmod>2024-08-30T15:30:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/billy-squier/</loc>
+    <loc>http://localhost:1313/categories/billy-squier/</loc>
     <lastmod>2024-08-30T15:30:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1087/</loc>
+    <loc>http://localhost:1313/posts/1087/</loc>
     <lastmod>2024-08-30T15:30:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/treetop-sound--music/</loc>
+    <loc>http://localhost:1313/categories/treetop-sound--music/</loc>
     <lastmod>2024-08-30T15:30:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1086/</loc>
+    <loc>http://localhost:1313/posts/1086/</loc>
     <lastmod>2024-08-30T15:30:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/slayer/</loc>
+    <loc>http://localhost:1313/categories/slayer/</loc>
     <lastmod>2024-08-30T15:30:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1085/</loc>
+    <loc>http://localhost:1313/posts/1085/</loc>
     <lastmod>2024-08-30T15:10:18-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/stagecraft-independent-contractors/</loc>
+    <loc>http://localhost:1313/categories/stagecraft-independent-contractors/</loc>
     <lastmod>2024-08-30T15:10:18-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1084/</loc>
+    <loc>http://localhost:1313/posts/1084/</loc>
     <lastmod>2024-08-30T15:10:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/fruit-of-the-loom/</loc>
+    <loc>http://localhost:1313/categories/fruit-of-the-loom/</loc>
     <lastmod>2024-08-30T15:10:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1083/</loc>
+    <loc>http://localhost:1313/posts/1083/</loc>
     <lastmod>2024-08-30T15:10:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/road-ducks/</loc>
+    <loc>http://localhost:1313/categories/road-ducks/</loc>
     <lastmod>2024-08-30T15:10:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1082/</loc>
+    <loc>http://localhost:1313/posts/1082/</loc>
     <lastmod>2024-08-30T15:10:13-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/grateful-dead/</loc>
+    <loc>http://localhost:1313/categories/grateful-dead/</loc>
     <lastmod>2024-08-30T15:10:13-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1081/</loc>
+    <loc>http://localhost:1313/posts/1081/</loc>
     <lastmod>2024-08-30T15:10:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/neo-duo/</loc>
+    <loc>http://localhost:1313/categories/neo-duo/</loc>
     <lastmod>2024-08-30T15:10:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1080/</loc>
+    <loc>http://localhost:1313/posts/1080/</loc>
     <lastmod>2024-08-19T00:03:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/guadalcanal-diary/</loc>
+    <loc>http://localhost:1313/categories/guadalcanal-diary/</loc>
     <lastmod>2024-08-19T00:03:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1079/</loc>
+    <loc>http://localhost:1313/posts/1079/</loc>
     <lastmod>2024-08-19T00:03:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1078/</loc>
+    <loc>http://localhost:1313/posts/1078/</loc>
     <lastmod>2024-08-19T00:03:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/bruce-hornsby--the-range/</loc>
+    <loc>http://localhost:1313/categories/bruce-hornsby--the-range/</loc>
     <lastmod>2024-08-19T00:03:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1077/</loc>
+    <loc>http://localhost:1313/posts/1077/</loc>
     <lastmod>2024-08-19T00:03:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/steve-earle/</loc>
+    <loc>http://localhost:1313/categories/steve-earle/</loc>
     <lastmod>2024-08-19T00:03:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1076/</loc>
+    <loc>http://localhost:1313/posts/1076/</loc>
     <lastmod>2024-08-19T00:03:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/robin-trower/</loc>
+    <loc>http://localhost:1313/categories/robin-trower/</loc>
     <lastmod>2024-08-19T00:03:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/touch-of-gold/</loc>
+    <loc>http://localhost:1313/tags/touch-of-gold/</loc>
     <lastmod>2024-08-19T00:03:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1075/</loc>
+    <loc>http://localhost:1313/posts/1075/</loc>
     <lastmod>2024-08-19T00:03:45-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-church/</loc>
+    <loc>http://localhost:1313/categories/the-church/</loc>
     <lastmod>2024-08-19T00:03:45-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1074/</loc>
+    <loc>http://localhost:1313/posts/1074/</loc>
     <lastmod>2024-08-19T00:03:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1073/</loc>
+    <loc>http://localhost:1313/posts/1073/</loc>
     <lastmod>2024-08-19T00:03:42-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/third-world/</loc>
+    <loc>http://localhost:1313/categories/third-world/</loc>
     <lastmod>2024-08-19T00:03:42-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1072/</loc>
+    <loc>http://localhost:1313/posts/1072/</loc>
     <lastmod>2024-08-19T00:03:41-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/tommy-conwell--the-young-rumblers/</loc>
+    <loc>http://localhost:1313/categories/tommy-conwell--the-young-rumblers/</loc>
     <lastmod>2024-08-19T00:03:41-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1071/</loc>
+    <loc>http://localhost:1313/posts/1071/</loc>
     <lastmod>2024-08-19T00:03:39-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/wailers-band/</loc>
+    <loc>http://localhost:1313/categories/wailers-band/</loc>
     <lastmod>2024-08-19T00:03:39-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1070/</loc>
+    <loc>http://localhost:1313/posts/1070/</loc>
     <lastmod>2024-08-18T14:44:13-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/paul-stanley/</loc>
+    <loc>http://localhost:1313/categories/paul-stanley/</loc>
     <lastmod>2024-08-18T14:44:13-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1069/</loc>
+    <loc>http://localhost:1313/posts/1069/</loc>
     <lastmod>2024-08-18T14:44:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/massive/</loc>
+    <loc>http://localhost:1313/categories/massive/</loc>
     <lastmod>2024-08-18T14:44:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/sportswear/</loc>
+    <loc>http://localhost:1313/tags/sportswear/</loc>
     <lastmod>2024-08-18T14:44:11-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1068/</loc>
+    <loc>http://localhost:1313/posts/1068/</loc>
     <lastmod>2024-08-18T14:44:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1067/</loc>
+    <loc>http://localhost:1313/posts/1067/</loc>
     <lastmod>2024-08-18T14:44:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/rush/</loc>
+    <loc>http://localhost:1313/categories/rush/</loc>
     <lastmod>2024-08-18T14:44:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1066/</loc>
+    <loc>http://localhost:1313/posts/1066/</loc>
     <lastmod>2024-08-18T14:44:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1065/</loc>
+    <loc>http://localhost:1313/posts/1065/</loc>
     <lastmod>2024-08-18T14:26:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/billy-idol/</loc>
+    <loc>http://localhost:1313/categories/billy-idol/</loc>
     <lastmod>2024-08-18T14:26:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1064/</loc>
+    <loc>http://localhost:1313/posts/1064/</loc>
     <lastmod>2024-08-18T14:26:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/eric-johnson/</loc>
+    <loc>http://localhost:1313/categories/eric-johnson/</loc>
     <lastmod>2024-08-18T14:26:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1063/</loc>
+    <loc>http://localhost:1313/posts/1063/</loc>
     <lastmod>2024-08-18T14:26:44-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-black-crowes/</loc>
+    <loc>http://localhost:1313/categories/the-black-crowes/</loc>
     <lastmod>2024-08-18T14:26:44-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1062/</loc>
+    <loc>http://localhost:1313/posts/1062/</loc>
     <lastmod>2024-08-18T14:26:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/peter-murphy/</loc>
+    <loc>http://localhost:1313/categories/peter-murphy/</loc>
     <lastmod>2024-08-18T14:26:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/select/</loc>
+    <loc>http://localhost:1313/tags/select/</loc>
     <lastmod>2024-08-18T14:26:43-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1061/</loc>
+    <loc>http://localhost:1313/posts/1061/</loc>
     <lastmod>2024-08-18T14:26:40-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/waxing-poetics/</loc>
+    <loc>http://localhost:1313/categories/waxing-poetics/</loc>
     <lastmod>2024-08-18T14:26:40-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1060/</loc>
+    <loc>http://localhost:1313/posts/1060/</loc>
     <lastmod>2024-08-17T23:03:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/bad-english/</loc>
+    <loc>http://localhost:1313/categories/bad-english/</loc>
     <lastmod>2024-08-17T23:03:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1059/</loc>
+    <loc>http://localhost:1313/posts/1059/</loc>
     <lastmod>2024-08-17T23:03:15-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/public-image-ltd./</loc>
+    <loc>http://localhost:1313/categories/public-image-ltd./</loc>
     <lastmod>2024-08-17T23:03:15-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1058/</loc>
+    <loc>http://localhost:1313/posts/1058/</loc>
     <lastmod>2024-08-17T23:03:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/sound-garden/</loc>
+    <loc>http://localhost:1313/categories/sound-garden/</loc>
     <lastmod>2024-08-17T23:03:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1057/</loc>
+    <loc>http://localhost:1313/posts/1057/</loc>
     <lastmod>2024-08-17T23:03:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/mega-deth/</loc>
+    <loc>http://localhost:1313/categories/mega-deth/</loc>
     <lastmod>2024-08-17T23:03:09-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1056/</loc>
+    <loc>http://localhost:1313/posts/1056/</loc>
     <lastmod>2024-08-17T23:02:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/turner-south/</loc>
+    <loc>http://localhost:1313/categories/turner-south/</loc>
     <lastmod>2024-08-17T23:02:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1055/</loc>
+    <loc>http://localhost:1313/posts/1055/</loc>
     <lastmod>2024-08-02T19:07:10-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/tori-amos/</loc>
+    <loc>http://localhost:1313/categories/tori-amos/</loc>
     <lastmod>2024-08-02T19:07:10-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1054/</loc>
+    <loc>http://localhost:1313/posts/1054/</loc>
     <lastmod>2024-08-02T19:07:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/bud-concert-series/</loc>
+    <loc>http://localhost:1313/categories/bud-concert-series/</loc>
     <lastmod>2024-08-02T19:07:06-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1053/</loc>
+    <loc>http://localhost:1313/posts/1053/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/coal-chamber/</loc>
+    <loc>http://localhost:1313/categories/coal-chamber/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/tultex/</loc>
+    <loc>http://localhost:1313/tags/tultex/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/type-o-negative/</loc>
+    <loc>http://localhost:1313/categories/type-o-negative/</loc>
     <lastmod>2024-08-02T19:07:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1052/</loc>
+    <loc>http://localhost:1313/posts/1052/</loc>
     <lastmod>2024-08-02T19:07:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/97.5-3wv/</loc>
+    <loc>http://localhost:1313/categories/97.5-3wv/</loc>
     <lastmod>2024-08-02T19:07:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1051/</loc>
+    <loc>http://localhost:1313/posts/1051/</loc>
     <lastmod>2024-08-02T19:06:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/lunatic/</loc>
+    <loc>http://localhost:1313/categories/lunatic/</loc>
     <lastmod>2024-08-02T19:06:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1050/</loc>
+    <loc>http://localhost:1313/posts/1050/</loc>
     <lastmod>2024-08-02T18:39:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/phish/</loc>
+    <loc>http://localhost:1313/categories/phish/</loc>
     <lastmod>2024-08-02T18:39:57-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1049/</loc>
+    <loc>http://localhost:1313/posts/1049/</loc>
     <lastmod>2024-08-02T18:39:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/outer-banks/</loc>
+    <loc>http://localhost:1313/tags/outer-banks/</loc>
     <lastmod>2024-08-02T18:39:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/vb-amphitheater/</loc>
+    <loc>http://localhost:1313/categories/vb-amphitheater/</loc>
     <lastmod>2024-08-02T18:39:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1048/</loc>
+    <loc>http://localhost:1313/posts/1048/</loc>
     <lastmod>2024-08-02T18:39:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/nissan-pavilion/</loc>
+    <loc>http://localhost:1313/categories/nissan-pavilion/</loc>
     <lastmod>2024-08-02T18:39:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/vcc-vantage/</loc>
+    <loc>http://localhost:1313/tags/vcc-vantage/</loc>
     <lastmod>2024-08-02T18:39:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1047/</loc>
+    <loc>http://localhost:1313/posts/1047/</loc>
     <lastmod>2024-08-02T18:39:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/godsmack/</loc>
+    <loc>http://localhost:1313/categories/godsmack/</loc>
     <lastmod>2024-08-02T18:39:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/us-ts-707/</loc>
+    <loc>http://localhost:1313/tags/us-ts-707/</loc>
     <lastmod>2024-08-02T18:39:50-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1046/</loc>
+    <loc>http://localhost:1313/posts/1046/</loc>
     <lastmod>2024-08-02T18:39:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gildan/</loc>
+    <loc>http://localhost:1313/tags/gildan/</loc>
     <lastmod>2024-08-02T18:39:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/monica-maries/</loc>
+    <loc>http://localhost:1313/categories/monica-maries/</loc>
     <lastmod>2024-08-02T18:39:47-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1045/</loc>
+    <loc>http://localhost:1313/posts/1045/</loc>
     <lastmod>2024-08-02T18:16:26-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/lunatic-luau/</loc>
+    <loc>http://localhost:1313/categories/lunatic-luau/</loc>
     <lastmod>2024-08-02T18:16:26-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1044/</loc>
+    <loc>http://localhost:1313/posts/1044/</loc>
     <lastmod>2024-08-02T18:16:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1043/</loc>
+    <loc>http://localhost:1313/posts/1043/</loc>
     <lastmod>2024-08-02T18:16:23-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/phil-lesh--friends/</loc>
+    <loc>http://localhost:1313/categories/phil-lesh--friends/</loc>
     <lastmod>2024-08-02T18:16:23-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1042/</loc>
+    <loc>http://localhost:1313/posts/1042/</loc>
     <lastmod>2024-08-02T18:16:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/champion/</loc>
+    <loc>http://localhost:1313/tags/champion/</loc>
     <lastmod>2024-08-02T18:16:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/sfx-music/</loc>
+    <loc>http://localhost:1313/categories/sfx-music/</loc>
     <lastmod>2024-08-02T18:16:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1041/</loc>
+    <loc>http://localhost:1313/posts/1041/</loc>
     <lastmod>2024-08-02T18:16:20-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/wvgo-106.5-fm/</loc>
+    <loc>http://localhost:1313/categories/wvgo-106.5-fm/</loc>
     <lastmod>2024-08-02T18:16:20-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1040/</loc>
+    <loc>http://localhost:1313/posts/1040/</loc>
     <lastmod>2024-08-02T17:56:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/enrique-iglesias/</loc>
+    <loc>http://localhost:1313/categories/enrique-iglesias/</loc>
     <lastmod>2024-08-02T17:56:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/m0-knits/</loc>
+    <loc>http://localhost:1313/tags/m0-knits/</loc>
     <lastmod>2024-08-02T17:56:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1039/</loc>
+    <loc>http://localhost:1313/posts/1039/</loc>
     <lastmod>2024-08-02T17:55:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/comfort-colors/</loc>
+    <loc>http://localhost:1313/tags/comfort-colors/</loc>
     <lastmod>2024-08-02T17:55:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1038/</loc>
+    <loc>http://localhost:1313/posts/1038/</loc>
     <lastmod>2024-08-02T17:55:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/van-halen/</loc>
+    <loc>http://localhost:1313/categories/van-halen/</loc>
     <lastmod>2024-08-02T17:55:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1037/</loc>
+    <loc>http://localhost:1313/posts/1037/</loc>
     <lastmod>2024-08-02T17:55:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/guns-n-roses/</loc>
+    <loc>http://localhost:1313/categories/guns-n-roses/</loc>
     <lastmod>2024-08-02T17:55:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1036/</loc>
+    <loc>http://localhost:1313/posts/1036/</loc>
     <lastmod>2024-08-02T17:55:46-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1035/</loc>
+    <loc>http://localhost:1313/posts/1035/</loc>
     <lastmod>2024-07-30T17:54:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/porno-for-pyros/</loc>
+    <loc>http://localhost:1313/categories/porno-for-pyros/</loc>
     <lastmod>2024-07-30T17:54:59-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1034/</loc>
+    <loc>http://localhost:1313/posts/1034/</loc>
     <lastmod>2024-07-30T17:54:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/catawbas-best/</loc>
+    <loc>http://localhost:1313/tags/catawbas-best/</loc>
     <lastmod>2024-07-30T17:54:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/ocean-potion/</loc>
+    <loc>http://localhost:1313/categories/ocean-potion/</loc>
     <lastmod>2024-07-30T17:54:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1033/</loc>
+    <loc>http://localhost:1313/posts/1033/</loc>
     <lastmod>2024-07-30T17:54:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/paul-mccartney/</loc>
+    <loc>http://localhost:1313/categories/paul-mccartney/</loc>
     <lastmod>2024-07-30T17:54:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1032/</loc>
+    <loc>http://localhost:1313/posts/1032/</loc>
     <lastmod>2024-07-30T17:54:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/life-sex--death/</loc>
+    <loc>http://localhost:1313/categories/life-sex--death/</loc>
     <lastmod>2024-07-30T17:54:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/tee-jays/</loc>
-    <lastmod>2024-07-30T17:54:52-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1031/</loc>
+    <loc>http://localhost:1313/posts/1031/</loc>
     <lastmod>2024-07-30T17:54:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/fm-99/</loc>
+    <loc>http://localhost:1313/categories/fm-99/</loc>
     <lastmod>2024-07-30T17:54:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1030/</loc>
+    <loc>http://localhost:1313/posts/1030/</loc>
     <lastmod>2024-07-17T20:06:20-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1029/</loc>
+    <loc>http://localhost:1313/posts/1029/</loc>
     <lastmod>2024-07-17T19:09:16-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1028/</loc>
+    <loc>http://localhost:1313/posts/1028/</loc>
     <lastmod>2024-07-17T19:09:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/alstyle-apparel--activewear/</loc>
+    <loc>http://localhost:1313/tags/alstyle-apparel--activewear/</loc>
     <lastmod>2024-07-17T19:09:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/trey-anastasio/</loc>
+    <loc>http://localhost:1313/categories/trey-anastasio/</loc>
     <lastmod>2024-07-17T19:09:14-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1027/</loc>
+    <loc>http://localhost:1313/posts/1027/</loc>
     <lastmod>2024-07-17T19:09:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/soffes-choice/</loc>
+    <loc>http://localhost:1313/tags/soffes-choice/</loc>
     <lastmod>2024-07-17T19:09:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1026/</loc>
+    <loc>http://localhost:1313/posts/1026/</loc>
     <lastmod>2024-07-17T19:09:10-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/psychedelic-furs/</loc>
+    <loc>http://localhost:1313/categories/psychedelic-furs/</loc>
     <lastmod>2024-07-17T19:09:10-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1025/</loc>
+    <loc>http://localhost:1313/posts/1025/</loc>
     <lastmod>2024-07-17T19:09:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1024/</loc>
+    <loc>http://localhost:1313/posts/1024/</loc>
     <lastmod>2024-07-17T19:09:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/fleetwood-mac/</loc>
+    <loc>http://localhost:1313/categories/fleetwood-mac/</loc>
     <lastmod>2024-07-17T19:09:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1023/</loc>
+    <loc>http://localhost:1313/posts/1023/</loc>
     <lastmod>2024-07-17T19:09:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-38-special/</loc>
+    <loc>http://localhost:1313/categories/the-38-special/</loc>
     <lastmod>2024-07-17T19:09:04-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1022/</loc>
+    <loc>http://localhost:1313/posts/1022/</loc>
     <lastmod>2024-07-17T19:09:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/robert-cray-band/</loc>
+    <loc>http://localhost:1313/categories/robert-cray-band/</loc>
     <lastmod>2024-07-17T19:09:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1021/</loc>
+    <loc>http://localhost:1313/posts/1021/</loc>
     <lastmod>2024-07-17T18:01:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/sting/</loc>
+    <loc>http://localhost:1313/categories/sting/</loc>
     <lastmod>2024-07-17T18:01:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1020/</loc>
+    <loc>http://localhost:1313/posts/1020/</loc>
     <lastmod>2024-07-17T17:59:53-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1019/</loc>
+    <loc>http://localhost:1313/posts/1019/</loc>
     <lastmod>2024-06-17T22:43:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/neil-young/</loc>
+    <loc>http://localhost:1313/categories/neil-young/</loc>
     <lastmod>2024-06-17T22:43:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1018/</loc>
+    <loc>http://localhost:1313/posts/1018/</loc>
     <lastmod>2024-06-17T22:43:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/aerosmith/</loc>
+    <loc>http://localhost:1313/categories/aerosmith/</loc>
     <lastmod>2024-06-17T22:43:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1017/</loc>
+    <loc>http://localhost:1313/posts/1017/</loc>
     <lastmod>2024-06-17T22:43:01-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/all-sports-events/</loc>
+    <loc>http://localhost:1313/tags/all-sports-events/</loc>
     <lastmod>2024-06-17T22:43:01-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/poison/</loc>
+    <loc>http://localhost:1313/categories/poison/</loc>
     <lastmod>2024-06-17T22:43:01-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1016/</loc>
+    <loc>http://localhost:1313/posts/1016/</loc>
     <lastmod>2024-06-17T22:42:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1015/</loc>
+    <loc>http://localhost:1313/posts/1015/</loc>
     <lastmod>2024-06-17T22:42:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/high-impact-television-series/</loc>
+    <loc>http://localhost:1313/categories/high-impact-television-series/</loc>
     <lastmod>2024-06-17T22:42:56-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1014/</loc>
+    <loc>http://localhost:1313/posts/1014/</loc>
     <lastmod>2024-06-17T22:42:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/mo-knits/</loc>
+    <loc>http://localhost:1313/tags/mo-knits/</loc>
     <lastmod>2024-06-17T22:42:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1013/</loc>
+    <loc>http://localhost:1313/posts/1013/</loc>
     <lastmod>2024-06-17T22:42:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/blank-expression/</loc>
+    <loc>http://localhost:1313/tags/blank-expression/</loc>
     <lastmod>2024-06-17T22:42:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/oingo-boingo/</loc>
+    <loc>http://localhost:1313/categories/oingo-boingo/</loc>
     <lastmod>2024-06-17T22:42:52-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1012/</loc>
+    <loc>http://localhost:1313/posts/1012/</loc>
     <lastmod>2024-06-17T22:42:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/planet-hollywood/</loc>
+    <loc>http://localhost:1313/tags/planet-hollywood/</loc>
     <lastmod>2024-06-17T22:42:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/planet-hollywood-san-diego/</loc>
+    <loc>http://localhost:1313/categories/planet-hollywood-san-diego/</loc>
     <lastmod>2024-06-17T22:42:51-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1011/</loc>
+    <loc>http://localhost:1313/posts/1011/</loc>
     <lastmod>2024-06-17T22:28:34-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-dead-milkmen/</loc>
+    <loc>http://localhost:1313/categories/the-dead-milkmen/</loc>
     <lastmod>2024-06-17T22:28:34-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1010/</loc>
+    <loc>http://localhost:1313/posts/1010/</loc>
     <lastmod>2024-06-17T22:28:29-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-replacements/</loc>
-    <lastmod>2024-06-17T22:28:29-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/1009/</loc>
+    <loc>http://localhost:1313/posts/1009/</loc>
     <lastmod>2024-06-17T22:28:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/perry-ellis/</loc>
+    <loc>http://localhost:1313/tags/perry-ellis/</loc>
     <lastmod>2024-06-17T22:28:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/post-gazette-pavilion/</loc>
+    <loc>http://localhost:1313/categories/post-gazette-pavilion/</loc>
     <lastmod>2024-06-17T22:28:22-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1008/</loc>
+    <loc>http://localhost:1313/posts/1008/</loc>
     <lastmod>2024-06-17T22:28:17-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1007/</loc>
+    <loc>http://localhost:1313/posts/1007/</loc>
     <lastmod>2024-06-17T22:28:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hartway-sports/</loc>
+    <loc>http://localhost:1313/tags/hartway-sports/</loc>
     <lastmod>2024-06-17T22:28:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/salem-civic-center-complex/</loc>
+    <loc>http://localhost:1313/categories/salem-civic-center-complex/</loc>
     <lastmod>2024-06-17T22:28:03-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1006/</loc>
+    <loc>http://localhost:1313/posts/1006/</loc>
     <lastmod>2024-06-17T22:09:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/the-allman-brothers/</loc>
+    <loc>http://localhost:1313/categories/the-allman-brothers/</loc>
     <lastmod>2024-06-17T22:09:02-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1005/</loc>
+    <loc>http://localhost:1313/posts/1005/</loc>
     <lastmod>2024-06-17T22:08:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/norman-bates-and-the-showerheads/</loc>
+    <loc>http://localhost:1313/categories/norman-bates-and-the-showerheads/</loc>
     <lastmod>2024-06-17T22:08:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1004/</loc>
+    <loc>http://localhost:1313/posts/1004/</loc>
     <lastmod>2024-06-17T21:11:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/rod-stewart/</loc>
+    <loc>http://localhost:1313/categories/rod-stewart/</loc>
     <lastmod>2024-06-17T21:11:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1003/</loc>
+    <loc>http://localhost:1313/posts/1003/</loc>
     <lastmod>2024-06-17T21:02:07-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1002/</loc>
+    <loc>http://localhost:1313/posts/1002/</loc>
     <lastmod>2024-06-17T13:02:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/auburn-sportswear/</loc>
+    <loc>http://localhost:1313/tags/auburn-sportswear/</loc>
     <lastmod>2024-06-17T13:02:12-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1001/</loc>
+    <loc>http://localhost:1313/posts/1001/</loc>
     <lastmod>2024-06-15T16:45:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

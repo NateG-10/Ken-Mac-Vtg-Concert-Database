@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Oneita on Ken Shirts</title>
-    <link>https://example.org/tags/oneita/</link>
+    <link>http://localhost:1313/tags/oneita/</link>
     <description>Recent content in Oneita on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Aug 2024 17:05:12 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/oneita/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/oneita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1096</title>
-      <link>https://example.org/posts/1096/</link>
+      <link>http://localhost:1313/posts/1096/</link>
       <pubDate>Fri, 30 Aug 2024 17:05:12 -0400</pubDate>
-      <guid>https://example.org/posts/1096/</guid>
+      <guid>http://localhost:1313/posts/1096/</guid>
       <description>B-52&amp;rsquo;s - Cosmic Thing Black XL T Shirt - Oneita Power-T B-52&amp;rsquo;s logo with &amp;ldquo;Cosmic Thing&amp;rdquo; text around on front, tour locations running down back in rainbow on back. Year: 1989
 BIN 2</description>
     </item>
     <item>
       <title>1089</title>
-      <link>https://example.org/posts/1089/</link>
+      <link>http://localhost:1313/posts/1089/</link>
       <pubDate>Fri, 30 Aug 2024 15:30:57 -0400</pubDate>
-      <guid>https://example.org/posts/1089/</guid>
+      <guid>http://localhost:1313/posts/1089/</guid>
       <description>Living Colour White XL T Shirt - Brockum Collection Living colour text under colorful graphic on front, &amp;ldquo;what&amp;rsquo;s your favorite color?&amp;rdquo; on back. Year: 1988.
 BIN 2</description>
     </item>
     <item>
       <title>1050</title>
-      <link>https://example.org/posts/1050/</link>
+      <link>http://localhost:1313/posts/1050/</link>
       <pubDate>Fri, 02 Aug 2024 18:39:57 -0400</pubDate>
-      <guid>https://example.org/posts/1050/</guid>
+      <guid>http://localhost:1313/posts/1050/</guid>
       <description>Phish White L T Shirt - Oneita Power-T Rainbow band logo on front; blank back Year: 1990s
 BIN 1</description>
     </item>
     <item>
       <title>1004</title>
-      <link>https://example.org/posts/1004/</link>
+      <link>http://localhost:1313/posts/1004/</link>
       <pubDate>Mon, 17 Jun 2024 21:11:08 -0400</pubDate>
-      <guid>https://example.org/posts/1004/</guid>
+      <guid>http://localhost:1313/posts/1004/</guid>
       <description>Rod Stewart Black XL T shirt - Oneita Authentic Pigment Black and white pictures on front, blue and white text on front. Year: 1988
 BIN 1</description>
     </item>

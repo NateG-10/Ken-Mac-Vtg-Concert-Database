@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anvil on Ken Shirts</title>
-    <link>https://example.org/tags/anvil/</link>
+    <link>http://localhost:1313/tags/anvil/</link>
     <description>Recent content in Anvil on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:10:22 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/anvil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/anvil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1121</title>
-      <link>https://example.org/posts/1121/</link>
+      <link>http://localhost:1313/posts/1121/</link>
       <pubDate>Thu, 26 Sep 2024 01:10:22 -0400</pubDate>
-      <guid>https://example.org/posts/1121/</guid>
+      <guid>http://localhost:1313/posts/1121/</guid>
       <description>Steel Pulse - State of Emergency Tour 1998 Black L T Shirt Anvil - Ched Police badge-style logo on front, tour logo on back. Year: 1998.
 BIN 2</description>
     </item>
     <item>
       <title>1051</title>
-      <link>https://example.org/posts/1051/</link>
+      <link>http://localhost:1313/posts/1051/</link>
       <pubDate>Fri, 02 Aug 2024 19:06:52 -0400</pubDate>
-      <guid>https://example.org/posts/1051/</guid>
+      <guid>http://localhost:1313/posts/1051/</guid>
       <description>Lunatic - Lunatic Luau III White XL T Shirt - Anvil FM 99 &amp;amp; event logo left chest on front; larger logo with tiki head and amphitheater logo. Year: 1990s
 BIN 1</description>
     </item>
     <item>
       <title>1035</title>
-      <link>https://example.org/posts/1035/</link>
+      <link>http://localhost:1313/posts/1035/</link>
       <pubDate>Tue, 30 Jul 2024 17:54:59 -0400</pubDate>
-      <guid>https://example.org/posts/1035/</guid>
+      <guid>http://localhost:1313/posts/1035/</guid>
       <description>Porno for Pyros Black XL T Shirt - Anvil Porno for Pyros Crest with circular text; tour locations with logos on back. Year: 1990s
 BIN 1</description>
     </item>
     <item>
       <title>1003</title>
-      <link>https://example.org/posts/1003/</link>
+      <link>http://localhost:1313/posts/1003/</link>
       <pubDate>Mon, 17 Jun 2024 21:02:07 -0400</pubDate>
-      <guid>https://example.org/posts/1003/</guid>
+      <guid>http://localhost:1313/posts/1003/</guid>
       <description>GTE Amphitheater Virginia Beach Dark Blue L Long-sleeve t shirt - Anvil Authentic Pigment Simple long-sleeve, small GTE shell logo on left chest area; year unknown
 BIN 1</description>
     </item>
