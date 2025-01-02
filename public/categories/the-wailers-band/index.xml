@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Wailers Band on Ken Shirts</title>
-    <link>http://localhost:1313/categories/the-wailers-band/</link>
+    <link>https://example.org/categories/the-wailers-band/</link>
     <description>Recent content in The Wailers Band on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 16:45:54 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/the-wailers-band/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 01:11:56 -0400</lastBuildDate>
+    <atom:link href="https://example.org/categories/the-wailers-band/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1140</title>
+      <link>https://example.org/posts/1140/</link>
+      <pubDate>Thu, 26 Sep 2024 01:11:56 -0400</pubDate>
+      <guid>https://example.org/posts/1140/</guid>
+      <description>The Wailers Band Irie - 1990 White XL T Shirt Hanes Colorful &amp;ldquo;Irie&amp;rdquo; text behind graphic of children on front, 1990 tour logo on back. Year: 1990
+BIN 2</description>
+    </item>
     <item>
       <title>1001</title>
-      <link>http://localhost:1313/posts/1001/</link>
+      <link>https://example.org/posts/1001/</link>
       <pubDate>Sat, 15 Jun 2024 16:45:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1001/</guid>
+      <guid>https://example.org/posts/1001/</guid>
       <description>The Wailers Band Black XL T-Shirt - Stedman Super Hi-Cru Pink, White, Green paint stripes with ID card; Year unknown
 BIN 1</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Rolling Stones on Ken Shirts</title>
-    <link>http://localhost:1313/categories/the-rolling-stones/</link>
+    <link>https://example.org/categories/the-rolling-stones/</link>
     <description>Recent content in The Rolling Stones on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:11:46 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/the-rolling-stones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/the-rolling-stones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1135</title>
-      <link>http://localhost:1313/posts/1135/</link>
+      <link>https://example.org/posts/1135/</link>
       <pubDate>Thu, 26 Sep 2024 01:11:46 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1135/</guid>
+      <guid>https://example.org/posts/1135/</guid>
       <description>The Rolling Stones - Steel Wheels Gray XL T Shirt Screen Stars Black graphic of wheels on front, &amp;ldquo;The North American Tour 1989 Working Crew&amp;rdquo; text on back. Year: 1989
 NOTE: Quantity total 4: 1 Gray (pictured), 2 yellow, 1 red. Red version has silver graphic and back text. All same size &amp;amp; manufacturer.
 BIN 2</description>

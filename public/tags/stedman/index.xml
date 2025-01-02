@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stedman on Ken Shirts</title>
-    <link>http://localhost:1313/tags/stedman/</link>
+    <link>https://example.org/tags/stedman/</link>
     <description>Recent content in Stedman on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 16:38:27 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stedman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/stedman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1101</title>
-      <link>http://localhost:1313/posts/1101/</link>
+      <link>https://example.org/posts/1101/</link>
       <pubDate>Sun, 01 Sep 2024 16:38:27 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1101/</guid>
+      <guid>https://example.org/posts/1101/</guid>
       <description>Jackson Brown and Sangre Machehual Black L T Shirt - Stedman Super Hi-Cru White graphic containing name and illusion art of bird and guitar; blank back.
 BIN 2</description>
     </item>
     <item>
       <title>1087</title>
-      <link>http://localhost:1313/posts/1087/</link>
+      <link>https://example.org/posts/1087/</link>
       <pubDate>Fri, 30 Aug 2024 15:30:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1087/</guid>
+      <guid>https://example.org/posts/1087/</guid>
       <description>Treetop Sound &amp;amp; Music Black L T Shirt - Stedman Super HI-Cru Company text around graphic and phone number on front
 BIN 2</description>
     </item>
     <item>
       <title>1081</title>
-      <link>http://localhost:1313/posts/1081/</link>
+      <link>https://example.org/posts/1081/</link>
       <pubDate>Fri, 30 Aug 2024 15:10:11 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1081/</guid>
+      <guid>https://example.org/posts/1081/</guid>
       <description>Neo Duo White XL T Shirt - Stedman - Super Hi Cru Small band logo in text left chest on front, red and black graphic of two faces, band name and a guitar on back. Year: 1990s
 BIN 2</description>
     </item>
     <item>
       <title>1022</title>
-      <link>http://localhost:1313/posts/1022/</link>
+      <link>https://example.org/posts/1022/</link>
       <pubDate>Wed, 17 Jul 2024 19:09:02 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1022/</guid>
+      <guid>https://example.org/posts/1022/</guid>
       <description>Robert Cray Band Black XL T Shirt - Stedman Super Hi-Cru Robert Cray band logo on front, tour locations on back. Year: Unknown
 BIN 1</description>
     </item>
     <item>
       <title>1001</title>
-      <link>http://localhost:1313/posts/1001/</link>
+      <link>https://example.org/posts/1001/</link>
       <pubDate>Sat, 15 Jun 2024 16:45:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1001/</guid>
+      <guid>https://example.org/posts/1001/</guid>
       <description>The Wailers Band Black XL T-Shirt - Stedman Super Hi-Cru Pink, White, Green paint stripes with ID card; Year unknown
 BIN 1</description>
     </item>

@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Miller High Life Rock Series on Ken Shirts</title>
-    <link>http://localhost:1313/categories/miller-high-life-rock-series/</link>
+    <link>https://example.org/categories/miller-high-life-rock-series/</link>
     <description>Recent content in Miller High Life Rock Series on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:11:11 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/miller-high-life-rock-series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/miller-high-life-rock-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1132</title>
-      <link>http://localhost:1313/posts/1132/</link>
+      <link>https://example.org/posts/1132/</link>
       <pubDate>Thu, 26 Sep 2024 01:11:11 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1132/</guid>
+      <guid>https://example.org/posts/1132/</guid>
       <description>Miller High Life Rock Series - 1984 Black XL Tank Top Signal Rock series 1984 logo on front, blank back. Year: 1984. NOTE: There is a t shirt version - L T Shirt (1983 version).
-BIN 2</description>
+BIN 2
+No back picture.</description>
     </item>
   </channel>
 </rss>

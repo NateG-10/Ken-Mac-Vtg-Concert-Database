@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Delta on Ken Shirts</title>
-    <link>http://localhost:1313/tags/delta/</link>
+    <link>https://example.org/tags/delta/</link>
     <description>Recent content in Delta on Ken Shirts</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 01:10:28 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/delta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/delta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1125</title>
-      <link>http://localhost:1313/posts/1125/</link>
+      <link>https://example.org/posts/1125/</link>
       <pubDate>Thu, 26 Sep 2024 01:10:28 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1125/</guid>
+      <guid>https://example.org/posts/1125/</guid>
       <description>The Coast - Radio 93.7 White XL T Shirt Delta Radio station logo on front, &amp;ldquo;Hampton Roads Alt. Rock&amp;rdquo; text on back.
 BIN 2</description>
     </item>
     <item>
       <title>1094</title>
-      <link>http://localhost:1313/posts/1094/</link>
+      <link>https://example.org/posts/1094/</link>
       <pubDate>Fri, 30 Aug 2024 16:28:14 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1094/</guid>
+      <guid>https://example.org/posts/1094/</guid>
       <description>Nine Inch Nails Black XL T Shirt - Delta Classic Large band logo with &amp;ldquo;now i&amp;rsquo;m nothing 1991&amp;rdquo; in gray puff print on front, &amp;ldquo;Now I&amp;rsquo;m Nothing 1991&amp;rdquo; in gray puff pring on back. Year: 1991
 BIN 2</description>
     </item>
     <item>
       <title>1044</title>
-      <link>http://localhost:1313/posts/1044/</link>
+      <link>https://example.org/posts/1044/</link>
       <pubDate>Fri, 02 Aug 2024 18:16:24 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1044/</guid>
+      <guid>https://example.org/posts/1044/</guid>
       <description>Dave Matthews Band - 2001 Tour Local Crew Gray XL T Shirt - Delta Proweights Small green local crew 2001 tour left chest on front, tour dates &amp;amp; locations over highway graphic on back. Year: 2001
 BIN 1</description>
     </item>
     <item>
       <title>1030</title>
-      <link>http://localhost:1313/posts/1030/</link>
+      <link>https://example.org/posts/1030/</link>
       <pubDate>Wed, 17 Jul 2024 20:06:20 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1030/</guid>
+      <guid>https://example.org/posts/1030/</guid>
       <description>Dave Matthews Band - The 2001 Tour Gray XL T Shirt - Delta Small band logo right chest, tour graphic with dates and locations on back. Year: 2001
 BIN 1</description>
     </item>
