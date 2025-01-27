@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lollapalooza on Ken Shirts</title>
+    <link>http://localhost:1313/categories/lollapalooza/</link>
+    <description>Recent content in Lollapalooza on Ken Shirts</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2025 17:26:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/lollapalooza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1184</title>
+      <link>http://localhost:1313/posts/1184/</link>
+      <pubDate>Thu, 02 Jan 2025 17:26:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/1184/</guid>
+      <description>Lollapalooza Festival - Inaugural Black XL T Shirt - Brockum Group Lollapalooza festival logo with doodles on front, performer list on back. Year: 1991
+BIN 3</description>
+    </item>
+  </channel>
+</rss>

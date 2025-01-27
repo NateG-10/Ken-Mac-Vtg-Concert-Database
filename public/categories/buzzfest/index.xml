@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buzzfest on Ken Shirts</title>
+    <link>http://localhost:1313/categories/buzzfest/</link>
+    <description>Recent content in Buzzfest on Ken Shirts</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 19:55:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/buzzfest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1210</title>
+      <link>http://localhost:1313/posts/1210/</link>
+      <pubDate>Tue, 14 Jan 2025 19:55:35 +0100</pubDate>
+      <guid>http://localhost:1313/posts/1210/</guid>
+      <description>Buzzfest - 1998 Purple and Light Blue Tie-Dye T Shirt - Delta Proweights Buzzfest text with &amp;ldquo;I killed Kenny at Buzzfest 1998&amp;rdquo; text with South Park Kenny dead graphic on front, festival graphic with performers. Year: 1998
+BIN 3</description>
+    </item>
+  </channel>
+</rss>
