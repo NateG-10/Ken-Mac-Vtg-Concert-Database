@@ -3,10 +3,175 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-14T19:56:03+01:00</lastmod>
+    <lastmod>2025-07-31T14:02:17-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-31T14:02:17-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1232/</loc>
+    <lastmod>2025-07-31T14:01:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brockum/</loc>
+    <lastmod>2025-07-31T14:01:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-31T14:01:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/restless-heart/</loc>
+    <lastmod>2025-07-31T14:01:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-31T14:01:03-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1231/</loc>
+    <lastmod>2025-07-31T14:00:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hanes/</loc>
+    <lastmod>2025-07-31T14:00:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/new-orleans-jazz-fest/</loc>
+    <lastmod>2025-07-31T14:00:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1230/</loc>
+    <lastmod>2025-07-31T14:00:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-cult/</loc>
+    <lastmod>2025-07-31T14:00:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1229/</loc>
+    <lastmod>2025-07-31T14:00:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/peter-frampton/</loc>
+    <lastmod>2025-07-31T14:00:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1228/</loc>
+    <lastmod>2025-07-31T14:00:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
+    <lastmod>2025-07-31T14:00:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/steel-pulse/</loc>
+    <lastmod>2025-07-31T14:00:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1227/</loc>
+    <lastmod>2025-07-31T14:00:34-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bodeans/</loc>
+    <lastmod>2025-07-31T14:00:34-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/screen-stars/</loc>
+    <lastmod>2025-07-31T14:00:34-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1226/</loc>
+    <lastmod>2025-07-31T14:00:30-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/divinyls/</loc>
+    <lastmod>2025-07-31T14:00:30-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1225/</loc>
+    <lastmod>2025-07-31T14:00:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tee-jays/</loc>
+    <lastmod>2025-07-31T14:00:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trixter/</loc>
+    <lastmod>2025-07-31T14:00:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1224/</loc>
+    <lastmod>2025-07-31T14:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/grateful-dead/</loc>
+    <lastmod>2025-07-31T14:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1223/</loc>
+    <lastmod>2025-07-31T14:00:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ricky-van-shelton/</loc>
+    <lastmod>2025-07-31T14:00:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1222/</loc>
+    <lastmod>2025-07-31T14:00:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bon-jovi/</loc>
+    <lastmod>2025-07-31T14:00:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/skid-row/</loc>
+    <lastmod>2025-07-31T14:00:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1221/</loc>
+    <lastmod>2025-07-31T13:59:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/fishbone/</loc>
+    <lastmod>2025-07-31T13:59:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n/a/</loc>
+    <lastmod>2025-07-31T13:59:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1220/</loc>
     <lastmod>2025-01-14T19:56:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/the-kentucky-headhunters/</loc>
+    <lastmod>2025-01-14T19:56:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1219/</loc>
+    <lastmod>2025-01-14T19:56:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1218/</loc>
+    <lastmod>2025-01-14T19:55:58+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/lollapalooza/</loc>
+    <lastmod>2025-01-14T19:55:58+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1217/</loc>
+    <lastmod>2025-01-14T19:55:56+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/guns-n-roses/</loc>
+    <lastmod>2025-01-14T19:55:56+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1216/</loc>
+    <lastmod>2025-01-14T19:55:53+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/friends-of-the-children-golf-tournament/</loc>
+    <lastmod>2025-01-14T19:55:53+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1215/</loc>
+    <lastmod>2025-01-14T19:55:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/country-comfort-music-series/</loc>
+    <lastmod>2025-01-14T19:55:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1214/</loc>
+    <lastmod>2025-01-14T19:55:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brockum-collection/</loc>
+    <lastmod>2025-01-14T19:55:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/metallica/</loc>
+    <lastmod>2025-01-14T19:55:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1213/</loc>
+    <lastmod>2025-01-14T19:55:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/all-sports/</loc>
+    <lastmod>2025-01-14T19:55:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/john-mellencamp/</loc>
+    <lastmod>2025-01-14T19:55:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1212/</loc>
+    <lastmod>2025-01-14T19:55:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/nsync/</loc>
+    <lastmod>2025-01-14T19:55:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/watergate/</loc>
+    <lastmod>2025-01-14T19:55:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1211/</loc>
+    <lastmod>2025-01-14T19:55:37+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tommy-conwell--the-young-rumblers/</loc>
+    <lastmod>2025-01-14T19:55:37+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1210/</loc>
     <lastmod>2025-01-14T19:55:35+01:00</lastmod>
@@ -14,19 +179,10 @@
     <loc>http://localhost:1313/categories/buzzfest/</loc>
     <lastmod>2025-01-14T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-14T19:55:35+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/delta/</loc>
     <lastmod>2025-01-14T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-14T19:55:35+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1209/</loc>
-    <lastmod>2025-01-14T19:55:33+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fruit-of-the-loom/</loc>
     <lastmod>2025-01-14T19:55:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/revolving-cocks/</loc>
@@ -45,9 +201,6 @@
     <lastmod>2025-01-14T19:55:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/bruce-springsteen/</loc>
-    <lastmod>2025-01-14T19:55:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hanes/</loc>
     <lastmod>2025-01-14T19:55:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1206/</loc>
@@ -113,9 +266,6 @@
     <loc>http://localhost:1313/posts/1198/</loc>
     <lastmod>2025-01-02T17:27:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/guns-n-roses/</loc>
-    <lastmod>2025-01-02T17:27:10-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1197/</loc>
     <lastmod>2025-01-02T17:27:09-05:00</lastmod>
   </url><url>
@@ -155,9 +305,6 @@
     <loc>http://localhost:1313/categories/beach-boys/</loc>
     <lastmod>2025-01-02T17:27:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/n/a/</loc>
-    <lastmod>2025-01-02T17:27:03-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1191/</loc>
     <lastmod>2025-01-02T17:26:56-05:00</lastmod>
   </url><url>
@@ -194,9 +341,6 @@
     <loc>http://localhost:1313/categories/scorpions/</loc>
     <lastmod>2025-01-02T17:26:42-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/screen-stars/</loc>
-    <lastmod>2025-01-02T17:26:42-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1185/</loc>
     <lastmod>2025-01-02T17:26:41-05:00</lastmod>
   </url><url>
@@ -210,9 +354,6 @@
     <lastmod>2025-01-02T17:26:40-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brockum-group/</loc>
-    <lastmod>2025-01-02T17:26:40-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/lollapalooza/</loc>
     <lastmod>2025-01-02T17:26:40-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1183/</loc>
@@ -279,9 +420,6 @@
     <lastmod>2025-01-02T17:22:25-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/def-leppard/</loc>
-    <lastmod>2025-01-02T17:22:25-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tee-jays/</loc>
     <lastmod>2025-01-02T17:22:25-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1173/</loc>
@@ -392,9 +530,6 @@
     <loc>http://localhost:1313/posts/1157/</loc>
     <lastmod>2025-01-02T17:21:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/bodeans/</loc>
-    <lastmod>2025-01-02T17:21:19-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1156/</loc>
     <lastmod>2025-01-02T17:21:17-05:00</lastmod>
   </url><url>
@@ -500,9 +635,6 @@
     <loc>http://localhost:1313/posts/1141/</loc>
     <lastmod>2024-09-26T01:11:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brockum-collection/</loc>
-    <lastmod>2024-09-26T01:11:58-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/midnight-oil/</loc>
     <lastmod>2024-09-26T01:11:58-04:00</lastmod>
   </url><url>
@@ -587,9 +719,6 @@
     <loc>http://localhost:1313/posts/1128/</loc>
     <lastmod>2024-09-26T01:10:33-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/all-sports/</loc>
-    <lastmod>2024-09-26T01:10:33-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/the-connells/</loc>
     <lastmod>2024-09-26T01:10:33-04:00</lastmod>
   </url><url>
@@ -630,9 +759,6 @@
     <lastmod>2024-09-26T01:10:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1121/</loc>
-    <lastmod>2024-09-26T01:10:22-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/steel-pulse/</loc>
     <lastmod>2024-09-26T01:10:22-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1120/</loc>
@@ -845,9 +971,6 @@
     <loc>http://localhost:1313/posts/1082/</loc>
     <lastmod>2024-08-30T15:10:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/grateful-dead/</loc>
-    <lastmod>2024-08-30T15:10:13-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1081/</loc>
     <lastmod>2024-08-30T15:10:11-04:00</lastmod>
   </url><url>
@@ -894,9 +1017,6 @@
     <lastmod>2024-08-19T00:03:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1072/</loc>
-    <lastmod>2024-08-19T00:03:41-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tommy-conwell--the-young-rumblers/</loc>
     <lastmod>2024-08-19T00:03:41-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1071/</loc>
