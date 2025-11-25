@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Ken Shirts'
 theme = 'PaperMod'
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [[menu.main]]
 identifier = "categories"
