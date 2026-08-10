@@ -27,8 +27,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
-          submodules: recursive
+          submodules: false
           fetch-depth: 0
+      - name: Reset submodule
+        run: |
+          rm -rf themes/PaperMod
+          git submodule deinit -f themes/PaperMod || true
+          git rm -f themes/PaperMod || true
+      - name: Clone PaperMod theme
+        run: |
+          git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
